@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Biomedical Informatics</a>. Columbia University.
+subtitle: <a href='https://www.dbmi.columbia.edu/postdocs-fellows/'>Department of Biomedical Informatics</a>. Columbia University.
 
 profile:
   align: right
