@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.dbmi.columbia.edu/postdocs-fellows/'>Department of Biomedical Informatics</a>. Columbia University.
 
