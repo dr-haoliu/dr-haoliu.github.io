@@ -27,7 +27,6 @@ Our system is comprised of a user-configured module called Category Design and a
     <li>(2) a concept normalization module for automatic generation of standardized concepts using Usagi and OMOP CDM standard vocabularies; </li>
     <li>(3) a categorization module for automatically classifying a study to categories. </li>
 </ul>
-
 </div>
  
 
