@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CliVER: Toward Scientific Claim Verification on Clinical Trial Publications 
+title: CliVER - Toward Scientific Claim Verification on Clinical Trial Publications
 description: a research tool to help clinicians/researchers identify relevant evidence in clinical trial studies and assess whether a clinical trial study provides evidence supporting or refuting a clinical claim
 img: assets/img/project_2/Graphical_Abstract.png
-importance: 2
+importance: 1
 category: work
 ---
 
