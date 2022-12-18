@@ -3,7 +3,7 @@ layout: page
 title: Ontology-based Categorization of Clinical Studies
 description: a method for automated ontology-based categorization of clinical studies by their conditions
 img: assets/img/project_1/Graph_Abstract.jpg
-importance: 2
+importance: 1
 category: work
 ---
 
