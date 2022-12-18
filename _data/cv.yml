@@ -13,91 +13,79 @@
   contents:
     - title: PhD
       institution: New Jersey Institute of Technology, New York, USA
-      year: 2020
+      year: 2015 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Co-advised by Dr. Yehoshua Perl and Dr. James Geller
+        - GPA: 4.0 (4.0 scale)
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Enrichment of ontologies using machine learning and summarization
     - title: Master of Science
       institution: Columbia University, New York, USA
-      year: 2012
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2011- 2012
+
     - title: Bachelor of Science
       institution: New York Institute of Technology, New York, USA
-      year: 2011
+      year: 2017 - 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with President's list
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teacher
+      institution: Columbia University
+      year: Spring 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - G4099 Biomedical Informatics seminar
+
+    - title: Teaching Assistant & Instructor
+      institution: New Jersey Institute of Technology, New Jersey, US
+      year: 2016-2020
       description:
-        - Description 1.
-        - Description 2.
+        - CS 115 - Intro to C++	| Spring 2018	| Lab instructor
+        - CS 106 - Intro to Python | Fall 2017 & Fall 2015  |	Lab instructor
+        - CS 610 - Data Structure & Algorithm	| Spring 2017	| Recitation instructor
+        - CS 435 - Adv Data Structure-Algorithm Design |	Spring 2017, Spring 2016  |	Recitation instructor
+        - CS 431 - Intro to Database System | Spring 2016 |	Lab instructor
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Junior Engineer
+      institution: Alcatel-Lucent Shanghai Bell, Shanghai
+      year: 2014-2015
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="http://ctkb.io/">Clinical Trial Knowledge Base</a>
+      year: 2020-now
+      description: A knowledge base of discrete clinical trial eligibility criteria equipped with a web-based user interface for querying and aggregate analysis of common eligibility criteria.
+    - title: <a href="http://cliver.chunhualab.org/">Clinical Trial Knowledge Base</a>
+      year: 2021-now
+      description: A pipeline that automate clinical evidence extraction and separate support and refute rationale for a
+      specific scientific claim, from over 500,000 completed randomized controlled trials from 1990 to 2022.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - LitCoin Natural Language Processing (NLP) Challenge
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Clinical Informatics.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Clinical Knowledge Discovery.
+        - Clinical Evidence Mining and Appraisal
+    - title: Ontology Engineering.
       items:
-        - Description 1.
-        - Description 2.
+        - Ontology Enrichment.
+        - Ontology Quality Assurance.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Golf, Swimming 1, Hiking, etc.
