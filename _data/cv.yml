@@ -16,10 +16,10 @@
       year: 2015 - 2020
       description:
         - Co-advised by Dr. Yehoshua Perl and Dr. James Geller
-        - GPA: 4.0 (4.0 scale)
-        - title: Thesis
+        - GPA 4.0 (4.0 scale)
+        - title: Dissertation
           contents:
-            - Enrichment of ontologies using machine learning and summarization
+            - <a href="https://digitalcommons.njit.edu/dissertations/1480/">Enrichment of ontologies using machine learning and summarization</a>
     - title: Master of Science
       institution: Columbia University, New York, USA
       year: 2011- 2012
@@ -87,4 +87,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Golf, Swimming 1, Hiking, etc.
+    - <u>Hobbies:</u> Golf, Swimming, Hiking, etc.
