@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: New Jersey Institute of Technology, New York, USA
+      institution: New Jersey Institute of Technology, Newark, NJ, USA
       year: 2015 - 2020
       description:
         - Co-advised by Dr. Yehoshua Perl and Dr. James Geller
@@ -22,7 +22,7 @@
             - <a href="https://digitalcommons.njit.edu/dissertations/1480/">Enrichment of ontologies using machine learning and summarization</a>
     - title: Master of Science
       institution: Columbia University, New York, USA
-      year: 2011- 2012
+      year: 2011 - 2012
 
     - title: Bachelor of Science
       institution: New York Institute of Technology, New York, USA
