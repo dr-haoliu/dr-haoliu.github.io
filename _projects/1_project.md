@@ -2,7 +2,7 @@
 layout: page
 title: Ontology-based Categorization of Clinical Studies
 description: a method for automated ontology-based categorization of clinical studies by their conditions
-img: assets/img/project_1/Graph Abstract.jpg
+img: assets/img/project_1/Graph_Abstract.jpg
 importance: 1
 category: work
 ---
@@ -17,7 +17,7 @@ Conclusion: We showed that categorizing clinical studies using their Condition t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_1/Graph Abstract.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_1/Graph_Abstract.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,10 +31,10 @@ Our system is comprised of a user-configured module called Category Design and a
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/project_1/Figure 3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_1/Figure3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/project_1/Figure 4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_1/Figure4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
