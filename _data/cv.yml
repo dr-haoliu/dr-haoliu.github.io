@@ -16,7 +16,7 @@
       year: 2015 - 2020
       description:
         - Co-advised by Dr. Yehoshua Perl and Dr. James Geller
-        - GPA 4.0 (4.0 scale)
+        - 'GPA: 4.0 (4.0 scale)'
         - title: Dissertation
           contents:
             - <a href="https://digitalcommons.njit.edu/dissertations/1480/">Enrichment of ontologies using machine learning and summarization</a>
@@ -61,16 +61,19 @@
     - title: <a href="http://ctkb.io/">Clinical Trial Knowledge Base</a>
       year: 2020-now
       description: A knowledge base of discrete clinical trial eligibility criteria equipped with a web-based user interface for querying and aggregate analysis of common eligibility criteria.
-    - title: <a href="http://cliver.chunhualab.org/">Clinical Trial Knowledge Base</a>
+    - title: '<a href="http://cliver.chunhualab.org/"> CliVER: Scientific claim verification </a>'
       year: 2021-now
       description: A pipeline that automate clinical evidence extraction and separate support and refute rationale for a specific scientific claim, from over 500,000 completed randomized controlled trials from 1990 to 2022.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: April, 2022
       items: 
         - LitCoin Natural Language Processing (NLP) Challenge
+    - year: 2021-2022
+      items:
+        - 'Google Cloud Credit Grant: "A knowledge base for Clinical Trials"  $5,000'
 
 - title: Professional Activities
   type: nested_list
