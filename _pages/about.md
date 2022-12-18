@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-Postdoc Research Scientist
-subtitle: <a href='https://www.dbmi.columbia.edu/postdocs-fellows/'>Department of Biomedical Informatics</a>
-Columbia University Irving Medical Center 
+subtitle: <a href='#'>Department of Biomedical Informatics</a>
+Columbia University Irving Medical Center. 
 Address. Contacts. Moto. Etc.
+Postdoc Research Scientist.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>hl2659 [at] columbia [dot] edu</p>
+    <p>hl2659</p>
     <p>622 W. 168th Street, PH20</p>
     <p>New York, NY 10032</p>
 
