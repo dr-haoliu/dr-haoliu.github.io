@@ -72,6 +72,24 @@
       items: 
         - LitCoin Natural Language Processing (NLP) Challenge
 
+- title: Professional Activities
+  type: nested_list
+  contents:
+    - title: Scientific Program Committee
+      items:
+        - <a href="https://sites.google.com/manhattan.edu/bibm2021?pli=1">The 3rd International Workshop on Quality Assurance and Enrichment of Biological and Biomedical Ontologies and Terminologies</a>
+        - <i>IEEE International Conference on Bioinformatics and Biomedicine (BIBM'2021)</i>
+    - title: Reviewer for journals
+      items:
+        - Journal of Biomedical Informatics (JBI)
+        - Journal of the American Medical Informatics Association
+        - Journal of the American Medical Informatics Association Open (JAMIA Open)
+        - Applied Clinical Informatics (ACI)
+        - BMC Supplements
+        - BMC Medical Informatics and Decision Making
+        - Clinical and Experimental Medicine
+        - Scientific Reports
+
 - title: Academic Interests
   type: nested_list
   contents:
