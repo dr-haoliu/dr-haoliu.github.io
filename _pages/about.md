@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Department of Biomedical Informatics</a>
-Columbia University Irving Medical Center. 
 Address. Contacts. Moto. Etc.
-Postdoc Research Scientist.
 
 profile:
   align: right
