@@ -3,81 +3,964 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+---
+---
+
+@string{aps = {American Physical Society,}}
+
+@ARTICLE{Liu2022-kt,
+  title    = "Ontology-based categorization of clinical studies by their
+              conditions",
+  author   = "Liu, Hao and Carini, Simona and Chen, Zhehuan and Phillips Hey,
+              Spencer and Sim, Ida and Weng, Chunhua",
+  abstract = "OBJECTIVE: The free-text Condition data field in the
+              ClinicalTrials.gov is not amenable to computational processes for
+              retrieving, aggregating and visualizing clinical studies by
+              condition categories. This paper contributes a method for
+              automated ontology-based categorization of clinical studies by
+              their conditions. MATERIALS AND METHODS: Our method first maps
+              text entries in ClinicalTrials.gov's Condition field to standard
+              condition concepts in the OMOP Common Data Model by using SNOMED
+              CT as a reference ontology and using Usagi for concept
+              normalization, followed by hierarchical traversal of the SNOMED
+              ontology for concept expansion, ontology-driven condition
+              categorization, and visualization. We compared the accuracy of
+              this method to that of the MeSH-based method. RESULTS: We
+              reviewed the 4,506 studies on Vivli.org categorized by our
+              method. Condition terms of 4,501 (99.89\%) studies were
+              successfully mapped to SNOMED CT concepts, and with a minimum
+              concept mapping score threshold, 4,428 (98.27\%) studies were
+              categorized into 31 predefined categories. When validating with
+              manual categorization results on a random sample of 300 studies,
+              our method achieved an estimated categorization accuracy of
+              95.7\%, while the MeSH-based method had an accuracy of 85.0\%.
+              CONCLUSION: We showed that categorizing clinical studies using
+              their Condition terms with referencing to SNOMED CT achieved a
+              better accuracy and coverage than using MeSH terms. The proposed
+              ontology-driven condition categorization was useful to create
+              accurate clinical study categorization that enables clinical
+              researchers to aggregate evidence from a large number of clinical
+              studies.",
+  journal  = "J. Biomed. Inform.",
+  volume   =  135,
+  pages    = "104235",
+  month    =  nov,
+  year     =  2022,
+  keywords = "Categorization; Clinical Study; Data Visualization; Ontology;
+              SNOMED CT",
+  language = "en",
+  selected = {true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@ARTICLE{Lin2022-sw,
+  title    = "A sample size extractor for {RCT} reports",
+  author   = "Lin, Fengyang and Liu, Hao and Moon, Paul and Weng, Chunhua",
+  abstract = "Sample size is an important indicator of the power of randomized
+              controlled trials (RCTs). In this paper, we designed a total
+              sample size extractor using a combination of syntactic and
+              machine learning methods, and evaluated it on 300 Covid-19
+              abstracts (Covid-Set) and 100 generic RCT abstracts
+              (General-Set). To improve the performance, we applied transfer
+              learning from a large public corpus of annotated abstracts. We
+              achieved an average F1 score of 0.73 on the Covid-Set testing
+              set, and 0.60 on the General-Set using exact matches. The F1
+              scores for loose matches on both datasets were over 0.74.
+              Compared with the state-of-the-art tool, our extractor reports
+              total sample sizes directly and improved F1 scores by at least
+              4\% without transfer learning. We demonstrated that transfer
+              learning improved the sample size extraction accuracy and
+              minimized human labor on annotations.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  290,
+  pages    = "617--621",
+  month    =  jun,
+  year     =  2022,
+  keywords = "Natural Language Processing; Randomized Controlled Trial; Sample
+              Size",
+  language = "en"
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  selected={true}
+@ARTICLE{Liu2022-lu,
+  title    = "Evaluation of {Criteria2Query}: Towards Augmented Intelligence
+              for Cohort Identification",
+  author   = "Liu, Cong and Liu, Hao and Ta, Casey and Roger, James and Butler,
+              Alex and Lee, Junghwan and Kim, Jaehyun and Shang, Ning and Weng,
+              Chunhua",
+  abstract = "Electronic healthcare records data promises to improve the
+              efficiency of patient eligibility screening, which is an
+              important factor in the success of clinical trials and
+              observational studies. To bridge the sociotechnical gap in cohort
+              identification by end-users, who are clinicians or researchers
+              unfamiliar with underlying EHR databases, we previously developed
+              a natural language query interface named Criteria2Query (C2Q)
+              that automatically transforms free-text eligibility criteria to
+              executable database queries. In this study, we present a
+              comprehensive evaluation of C2Q to generate more actionable
+              insights to inform the design and evaluation of future natural
+              language user interfaces for clinical databases, towards the
+              realization of Augmented Intelligence (AI) for clinical cohort
+              definition via e-screening.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  290,
+  pages    = "297--300",
+  month    =  jun,
+  year     =  2022,
+  keywords = "Artificial Intelligence (AI); Clinical Trial; Natural Language
+              Processing",
+  language = "en"
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@ARTICLE{Chen2021-uq,
+  title    = "Potential Role of Clinical Trial Eligibility Criteria in
+              Electronic Phenotyping",
+  author   = "Chen, Zhehuan and Liu, Hao and Butler, Alex and Ostropolets, Anna
+              and Weng, Chunhua",
+  abstract = "2,719 distinctive phenotyping variables from 176 electronic
+              phenotypes were compared with 57,150 distinctive clinical trial
+              eligibility criteria concepts to assess the phenotype knowledge
+              overlap between them. We observed a high percentage (69.5\%) of
+              eMERGE phenotype features and a lower percentage (47.6\%) of
+              OHDSI phenotype features matched to clinical trial eligibility
+              criteria, possibly due to the relative emphasis on specificity
+              for eMERGE phenotypes and the relative emphasis on sensitivity
+              for OHDSI phenotypes. The study results show the potential of
+              reusing clinical trial eligibility criteria for phenotyping
+              feature selection and moderate benefits of using them for local
+              cohort query implementation.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  281,
+  pages    = "148--152",
+  month    =  may,
+  year     =  2021,
+  keywords = "Clinical Trial Eligibility Criteria; Electronic Phenotyping",
+  language = "en"
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@ARTICLE{Zheng2018-pt,
+  title    = "Overlapping Complex Concepts Have More Commission Errors,
+              Especially in Intensive Terminology Auditing",
+  author   = "Zheng, Ling and Liu, Hao and Perl, Yehoshua and Geller, James and
+              Ochs, Christopher and Case, James T",
+  abstract = "SNOMED CT is a large, complex and widely-used terminology.
+              Auditing is part of the life cycle of terminologies. A review of
+              terminologies' content can identify two error categories:
+              commission errors, such as an incorrect parent or attribute
+              relationship, indicating errors in a concept's modeling, and
+              omission errors, such as missing a parent or attribute
+              relationship, representing incomplete modeling of a concept.
+              According to our experience, terminology curators are mostly
+              interested in commission errors. In recent years, a long-term
+              remodeling project has addressed modeling issues in SNOMED CT's
+              Infectious disease and Congenital disease subhierarchies. In this
+              longitudinal study, we investigated a posteriori the efficacy of
+              complex concepts, called overlapping concepts, to identify
+              commission errors during intensive auditing periods and during
+              maintenance periods over several releases. The algorithmic
+              implication is that when auditing resources are scarce, a
+              methodology of auditing first, or only, the overlapping concepts
+              will obtain a higher auditing yield.",
+  journal  = "AMIA Annu. Symp. Proc.",
+  volume   =  2018,
+  pages    = "1157--1166",
+  month    =  dec,
+  year     =  2018,
+  language = "en"
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@ARTICLE{Chen2022-ip,
+  title    = "Representation and Normalization of Complex Interventions for
+              Evidence Computing",
+  author   = "Chen, Zhehuan and Liu, Hao and Liao, Stan and Bernard, Marguerite
+              and Kang, Tian and Stewart, Latoya A and Weng, Chunhua",
+  abstract = "Complex interventions are ubiquitous in healthcare. A lack of
+              computational representations and information extraction
+              solutions for complex interventions hinders accurate and
+              efficient evidence synthesis. In this study, we manually
+              annotated and analyzed 3,447 intervention snippets from 261
+              randomized clinical trial (RCT) abstracts and developed a
+              compositional representation for complex interventions, which
+              captures the spatial, temporal and Boolean relations between
+              intervention components, along with an intervention normalization
+              pipeline that automates three tasks: (i) treatment entity
+              extraction; (ii) intervention component relation extraction; and
+              (iii) attribute extraction and association. 361 intervention
+              snippets from 29 unseen abstracts were included to report on the
+              performance of the evaluation. The average F-measure was 0.74 for
+              treatment entity extraction on an exact match and 0.82 for
+              attribute extraction. The F-measure for relation extraction of
+              multi-component complex interventions was 0.90. 93\% of extracted
+              attributes were correctly attributed to corresponding treatment
+              entities.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  290,
+  pages    = "592--596",
+  month    =  jun,
+  year     =  2022,
+  keywords = "Knowledge representation; complex intervention; evidence-based
+              medicine; natural language processing",
+  language = "en"
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@ARTICLE{Chen2022-kq,
+  title    = "{Data-Driven} Modeling of Randomized Controlled Trial Outcomes",
+  author   = "Chen, Zhehuan and Fang, Yilu and Liu, Hao and Weng, Chunhua",
+  abstract = "Anecdotally, 38.5\% of clinical outcome descriptions in
+              randomized controlled trial publications contain complex text.
+              Existing terminologies are insufficient to standardize outcomes
+              and their measures, temporal attributes, quantitative metrics,
+              and other attributes. In this study, we analyzed the semantic
+              patterns in the outcome text in a sample of COVID-19 trials and
+              presented a data-driven method for modeling outcomes. We conclude
+              that a data-driven knowledge representation can benefit natural
+              language processing of outcome text from published clinical
+              studies.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  294,
+  pages    = "392--396",
+  month    =  may,
+  year     =  2022,
+  keywords = "knowledge representation; outcome; randomized controlled trials",
+  language = "en"
 }
+
+@ARTICLE{Turfah2022-ri,
+  title    = "Extending {PICO} with Observation Normalization for Evidence
+              Computing",
+  author   = "Turfah, Ali and Liu, Hao and Stewart, Latoya A and Kang, Tian and
+              Weng, Chunhua",
+  abstract = "While the PICO framework is widely used by clinicians for
+              clinical question formulation when querying the medical
+              literature, it does not have the expressiveness to explicitly
+              capture medical findings based on any standard. In addition,
+              findings extracted from the literature are represented as
+              free-text, which is not amenable to computation. This research
+              extends the PICO framework with Observation elements, which
+              capture the observed effect that an Intervention has on an
+              Outcome, forming Intervention-Observation-Outcome triplets. In
+              addition, we present a framework to normalize Observation
+              elements with respect to their significance and the direction of
+              the effect, as well as a rule-based approach to perform the
+              normalization of these attributes. Our method achieves
+              macro-averaged F1 scores of 0.82 and 0.73 for identifying the
+              significance and direction attributes, respectively.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  290,
+  pages    = "268--272",
+  month    =  jun,
+  year     =  2022,
+  keywords = "Evidence-based Medicine; Natural Language Processing; Text Mining",
+  language = "en"
+}
+
+@ARTICLE{Liu2017-ic,
+  title    = "Correcting Ontology Errors Simplifies Visual Complexity",
+  author   = "Liu, Hao and Zheng, Ling and Perl, Yehoshua and Chen, Yan and
+              Elhanan, Gai",
+  abstract = "In previous research we have shown that hierarchically complex
+              overlapping concepts have a higher error rate of errors versus
+              control concepts. In this poster we show an exmaple from Neoplasm
+              concepts of the NCI thesaurus (NCIt) demonstrating that erroneous
+              overplapping concepts, reflected in the partial-area units of a
+              partial-area taxonomy, display visual complexity. Furthermore,
+              correcting these erroneous concepts causes visual simplification.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  245,
+  pages    = "1330",
+  year     =  2017,
+  keywords = "Ontology Quality Assurance; Ontology Visualization",
+  language = "en"
+}
+
+
+
+@ARTICLE{Zheng2020-at,
+  title    = "Missing lateral relationships in top-level concepts of an
+              ontology",
+  author   = "Zheng, Ling and Chen, Yan and Min, Hua and Hildebrand, P Lloyd
+              and Liu, Hao and Halper, Michael and Geller, James and de
+              Coronado, Sherri and Perl, Yehoshua",
+  abstract = "BACKGROUND: Ontologies house various kinds of domain knowledge in
+              formal structures, primarily in the form of concepts and the
+              associative relationships between them. Ontologies have become
+              integral components of many health information processing
+              environments. Hence, quality assurance of the conceptual content
+              of any ontology is critical. Relationships are foundational to
+              the definition of concepts. Missing relationship errors (i.e.,
+              unintended omissions of important definitional relationships) can
+              have a deleterious effect on the quality of an ontology. An
+              abstraction network is a structure that overlays an ontology and
+              provides an alternate, summarization view of its contents. One
+              kind of abstraction network is called an area taxonomy, and a
+              variation of it is called a subtaxonomy. A methodology based on
+              these taxonomies for more readily finding missing relationship
+              errors is explored. METHODS: The area taxonomy and the
+              subtaxonomy are deployed to help reveal concepts that have a high
+              likelihood of exhibiting missing relationship errors. A specific
+              top-level grouping unit found within the area taxonomy and
+              subtaxonomy, when deemed to be anomalous, is used as an indicator
+              that missing relationship errors are likely to be found among
+              certain concepts. Two hypotheses pertaining to the effectiveness
+              of our Quality Assurance approach are studied. RESULTS: Our
+              Quality Assurance methodology was applied to the Biological
+              Process hierarchy of the National Cancer Institute thesaurus
+              (NCIt) and SNOMED CT's Eye/vision finding subhierarchy within its
+              Clinical finding hierarchy. Many missing relationship errors were
+              discovered and confirmed in our analysis. For both test-bed
+              hierarchies, our Quality Assurance methodology yielded a
+              statistically significantly higher number of concepts with
+              missing relationship errors in comparison to a control sample of
+              concepts. Two hypotheses are confirmed by these findings.
+              CONCLUSIONS: Quality assurance is a critical part of an
+              ontology's lifecycle, and automated or semi-automated tools for
+              supporting this process are invaluable. We introduced a Quality
+              Assurance methodology targeted at missing relationship errors.
+              Its successful application to the NCIt's Biological Process
+              hierarchy and SNOMED CT's Eye/vision finding subhierarchy
+              indicates that it can be a useful addition to the arsenal of
+              tools available to ontology maintenance personnel.",
+  journal  = "BMC Med. Inform. Decis. Mak.",
+  volume   =  20,
+  number   = "Suppl 10",
+  pages    = "305",
+  month    =  dec,
+  year     =  2020,
+  keywords = "Abstraction network; Error concentration; Missing relationship
+              error; National Cancer Institute thesaurus (NCIt); Omission
+              error; Ontology modeling; Ontology quality assurance; SNOMED CT;
+              Taxonomy",
+  language = "en"
+}
+
+@ARTICLE{Fang2021-ku,
+  title    = "Participatory Design of a Clinical Trial Eligibility Criteria
+              Simplification Method",
+  author   = "Fang, Yilu and Kim, Jae Hyun and Idnay, Betina Ross and Aragon
+              Garcia, Rebeca and Castillo, Carmen E and Sun, Yingcheng and Liu,
+              Hao and Liu, Cong and Yuan, Chi and Weng, Chunhua",
+  abstract = "Clinical trial eligibility criteria are important for selecting
+              the right participants for clinical trials. However, they are
+              often complex and not computable. This paper presents the
+              participatory design of a human-computer collaboration method for
+              criteria simplification that includes natural language processing
+              followed by user-centered eligibility criteria simplification. A
+              case study on the ARCADIA trial shows how criteria were
+              simplified for structured database querying by clinical
+              researchers and identifies rules for criteria simplification and
+              concept normalization.",
+  journal  = "Stud. Health Technol. Inform.",
+  volume   =  281,
+  pages    = "984--988",
+  month    =  may,
+  year     =  2021,
+  keywords = "concept mapping; intelligence augmentation; named entity
+              recognition",
+  language = "en"
+}
+
+@ARTICLE{Fang2022-iz,
+  title    = "Combining human and machine intelligence for clinical trial
+              eligibility querying",
+  author   = "Fang, Yilu and Idnay, Betina and Sun, Yingcheng and Liu, Hao and
+              Chen, Zhehuan and Marder, Karen and Xu, Hua and Schnall, Rebecca
+              and Weng, Chunhua",
+  abstract = "OBJECTIVE: To combine machine efficiency and human intelligence
+              for converting complex clinical trial eligibility criteria text
+              into cohort queries. MATERIALS AND METHODS: Criteria2Query (C2Q)
+              2.0 was developed to enable real-time user intervention for
+              criteria selection and simplification, parsing error correction,
+              and concept mapping. The accuracy, precision, recall, and F1
+              score of enhanced modules for negation scope detection, temporal
+              and value normalization were evaluated using a previously curated
+              gold standard, the annotated eligibility criteria of 1010
+              COVID-19 clinical trials. The usability and usefulness were
+              evaluated by 10 research coordinators in a task-oriented
+              usability evaluation using 5 Alzheimer's disease trials. Data
+              were collected by user interaction logging, a demographic
+              questionnaire, the Health Information Technology Usability
+              Evaluation Scale (Health-ITUES), and a feature-specific
+              questionnaire. RESULTS: The accuracies of negation scope
+              detection, temporal and value normalization were 0.924, 0.916,
+              and 0.966, respectively. C2Q 2.0 achieved a moderate usability
+              score (3.84 out of 5) and a high learnability score (4.54 out of
+              5). On average, 9.9 modifications were made for a clinical study.
+              Experienced researchers made more modifications than novice
+              researchers. The most frequent modification was deletion (5.35
+              per study). Furthermore, the evaluators favored cohort queries
+              resulting from modifications (score 4.1 out of 5) and the user
+              engagement features (score 4.3 out of 5). DISCUSSION AND
+              CONCLUSION: Features to engage domain experts and to overcome the
+              limitations in automated machine output are shown to be useful
+              and user-friendly. We concluded that human-computer collaboration
+              is key to improving the adoption and user-friendliness of natural
+              language processing.",
+  journal  = "J. Am. Med. Inform. Assoc.",
+  volume   =  29,
+  number   =  7,
+  pages    = "1161--1171",
+  month    =  jun,
+  year     =  2022,
+  keywords = "cohort identification; eligibility prescreening; human--computer
+              collaboration; informatics",
+  language = "en"
+}
+
+@ARTICLE{Franks2021-pk,
+  title    = "Misalignment between {COVID-19} hotspots and clinical trial sites",
+  author   = "Franks, Lauren and Liu, Hao and Elkind, Mitchell S V and Reilly,
+              Muredach P and Weng, Chunhua and Lee, Shing M",
+  abstract = "Hundreds of interventional clinical trials have been launched in
+              the United States to identify effective treatment strategies for
+              combating the coronavirus disease 2019 (COVID-19) pandemic.
+              However, to date, only a small fraction of these trials have
+              completed enrollment, delaying the scientific investigation of
+              COVID-19 and its treatment options. This study presents novel
+              metrics to examine the geographic alignment between COVID-19
+              hotspots and interventional clinical trial sites and evaluate
+              trial access over time during the evolving pandemic. Using
+              temporal COVID-19 case data from USAFacts.org and trial data from
+              ClinicalTrials.gov, U.S. counties were categorized based on their
+              numbers of cases and trials. Our analysis suggests that alignment
+              and access have worsened as the pandemic shifted over time. We
+              recommend strategies and metrics to evaluate the alignment
+              between cases and trials. Future studies are warranted to
+              investigate the impact of the misalignment of cases and clinical
+              trial sites on clinical trial recruitment.",
+  journal  = "J. Am. Med. Inform. Assoc.",
+  volume   =  28,
+  number   =  11,
+  pages    = "2461--2466",
+  month    =  oct,
+  year     =  2021,
+  keywords = "COVID-19; clinical; clinical research informatics; clinical trial
+              site location; trial recruitment",
+  language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Liu2014-xf,
+  title     = "Microblogging as a social sensing tool",
+  author    = "Liu, H and Dong, Z and Gu, H",
+  abstract  = "Microblogging has become a popular communication tool among
+               Internet users. Millions of users retrieve information and share
+               opinions on different aspects of their daily lives using …",
+  journal   = "of the 11th IEEE International Conference …",
+  publisher = "ieeexplore.ieee.org",
+  year      =  2014
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Zheng2017-en,
+  title     = "Multi-layer Big Knowledge visualization scheme for comprehending
+               neoplasm ontology content",
+  author    = "Zheng, L and Ochs, C and Geller, J and Liu, H and Perl, Y and
+               {others}",
+  abstract  = "Big Knowledge repositories, in the form of large ontologies,
+               typically consist of many thousands of knowledge assertions.
+               They have complex network structures consisting of …",
+  journal   = "Conference on Big …",
+  publisher = "ieeexplore.ieee.org",
+  year      =  2017
+}
+
+@ARTICLE{Zheng2021-wa,
+  title    = "Visual comprehension and orientation into the {COVID-19} {CIDO}
+              ontology",
+  author   = "Zheng, Ling and Perl, Yehoshua and He, Yongqun and Ochs,
+              Christopher and Geller, James and Liu, Hao and Keloth, Vipina K",
+  abstract = "The current intensive research on potential remedies and
+              vaccinations for COVID-19 would greatly benefit from an ontology
+              of standardized COVID terms. The Coronavirus Infectious Disease
+              Ontology (CIDO) is the largest among several COVID ontologies,
+              and it keeps growing, but it is still a medium sized ontology.
+              Sophisticated CIDO users, who need more than searching for a
+              specific concept, require orientation and comprehension of CIDO.
+              In previous research, we designed a summarization network called
+              ``partial-area taxonomy'' to support comprehension of ontologies.
+              The partial-area taxonomy for CIDO is of smaller magnitude than
+              CIDO, but is still too large for comprehension. We present here
+              the ``weighted aggregate taxonomy'' of CIDO, designed to provide
+              compact views at various granularities of our partial-area
+              taxonomy (and the CIDO ontology). Such a compact view provides a
+              ``big picture'' of the content of an ontology. In previous work,
+              in the visualization patterns used for partial-area taxonomies,
+              the nodes were arranged in levels according to the numbers of
+              relationships of their concepts. Applying this visualization
+              pattern to CIDO's weighted aggregate taxonomy resulted in an
+              overly long and narrow layout that does not support orientation
+              and comprehension since the names of nodes are barely readable.
+              Thus, we introduce in this paper an innovative visualization of
+              the weighted aggregate taxonomy for better orientation and
+              comprehension of CIDO (and other ontologies). A measure for the
+              efficiency of a layout is introduced and is used to demonstrate
+              the advantage of the new layout over the previous one. With this
+              new visualization, the user can ``see the forest for the trees''
+              of the ontology. Benefits of this visualization in highlighting
+              insights into CIDO's content are provided. Generality of the new
+              layout is demonstrated.",
+  journal  = "J. Biomed. Inform.",
+  volume   =  120,
+  pages    = "103861",
+  month    =  aug,
+  year     =  2021,
+  keywords = "Comprehension of an ontology; Coronavirus Infectious Disease
+              Ontology; Ontology orientation; Ontology summarization; Ontology
+              visualization; Summarization networks",
+  language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Liu_undated-fy,
+  title    = "A Quality Assurance Methodology for {ChEBI} Ontology Focusing on
+              Uncommonly Modeled Concepts",
+  author   = "Liu, H and Chen, L and Zheng, L and Perl, Y and Geller, J",
+  abstract = "The Chemical Entities of Biological Interest (ChEBI) ontology is
+              an important knowledge source of chemical entities in a
+              biological context. ChEBI is large and complex, making it …",
+  journal  = "ceur-ws.org",
+  year     = 2018,
+}
+
+@ARTICLE{Sun2021-vi,
+  title    = "A Framework for Systematic Assessment of Clinical Trial
+              Population Representativeness Using Electronic Health Records
+              Data",
+  author   = "Sun, Yingcheng and Butler, Alex and Diallo, Ibrahim and Kim, Jae
+              Hyun and Ta, Casey and Rogers, James R and Liu, Hao and Weng,
+              Chunhua",
+  abstract = "BACKGROUND: Clinical trials are the gold standard for generating
+              robust medical evidence, but clinical trial results often raise
+              generalizability concerns, which can be attributed to the lack of
+              population representativeness. The electronic health records
+              (EHRs) data are useful for estimating the population
+              representativeness of clinical trial study population.
+              OBJECTIVES: This research aims to estimate the population
+              representativeness of clinical trials systematically using EHR
+              data during the early design stage. METHODS: We present an
+              end-to-end analytical framework for transforming free-text
+              clinical trial eligibility criteria into executable database
+              queries conformant with the Observational Medical Outcomes
+              Partnership Common Data Model and for systematically quantifying
+              the population representativeness for each clinical trial.
+              RESULTS: We calculated the population representativeness of 782
+              novel coronavirus disease 2019 (COVID-19) trials and 3,827 type 2
+              diabetes mellitus (T2DM) trials in the United States respectively
+              using this framework. With the use of overly restrictive
+              eligibility criteria, 85.7\% of the COVID-19 trials and 30.1\% of
+              T2DM trials had poor population representativeness. CONCLUSION:
+              This research demonstrates the potential of using the EHR data to
+              assess the clinical trials population representativeness,
+              providing data-driven metrics to inform the selection and
+              optimization of eligibility criteria.",
+  journal  = "Appl. Clin. Inform.",
+  volume   =  12,
+  number   =  4,
+  pages    = "816--825",
+  month    =  aug,
+  year     =  2021,
+  language = "en"
+}
+
+@ARTICLE{Li2021-up,
+  title    = "A Comparison between Human and {NLP-based} Annotation of Clinical
+              Trial Eligibility Criteria Text Using The {OMOP} Common Data
+              Model",
+  author   = "Li, Xinhang and Liu, Hao and Kury, Fabr{\'\i}cio and Yuan, Chi
+              and Butler, Alex and Sun, Yingcheng and Ostropolets, Anna and Xu,
+              Hua and Weng, Chunhua",
+  abstract = "Human annotations are the established gold standard for
+              evaluating natural language processing (NLP) methods. The goals
+              of this study are to quantify and qualify the disagreement
+              between human and NLP. We developed an NLP system for annotating
+              clinical trial eligibility criteria text and constructed a
+              manually annotated corpus, both following the OMOP Common Data
+              Model (CDM). We analyzed the discrepancies between the human and
+              NLP annotations and their causes (e.g., ambiguities in concept
+              categorization and tacit decisions on inclusion of qualifiers and
+              temporal attributes during concept annotation). This study
+              initially reported complexities in clinical trial eligibility
+              criteria text that complicate NLP and the limitations of the OMOP
+              CDM. The disagreement between and human and NLP annotations may
+              be generalizable. We discuss implications for NLP evaluation.",
+  journal  = "AMIA Jt Summits Transl Sci Proc",
+  volume   =  2021,
+  pages    = "394--403",
+  month    =  may,
+  year     =  2021,
+  language = "en"
+}
+
+@ARTICLE{Sun2021-lx,
+  title    = "The {COVID-19} Trial Finder",
+  author   = "Sun, Yingcheng and Butler, Alex and Lin, Fengyang and Liu, Hao
+              and Stewart, Latoya A and Kim, Jae Hyun and Idnay, Betina Ross S
+              and Ge, Qingyin and Wei, Xinyi and Liu, Cong and Yuan, Chi and
+              Weng, Chunhua",
+  abstract = "Clinical trials are the gold standard for generating reliable
+              medical evidence. The biggest bottleneck in clinical trials is
+              recruitment. To facilitate recruitment, tools for patient search
+              of relevant clinical trials have been developed, but users often
+              suffer from information overload. With nearly 700 coronavirus
+              disease 2019 (COVID-19) trials conducted in the United States as
+              of August 2020, it is imperative to enable rapid recruitment to
+              these studies. The COVID-19 Trial Finder was designed to
+              facilitate patient-centered search of COVID-19 trials, first by
+              location and radius distance from trial sites, and then by brief,
+              dynamically generated medical questions to allow users to
+              prescreen their eligibility for nearby COVID-19 trials with
+              minimum human computer interaction. A simulation study using 20
+              publicly available patient case reports demonstrates its
+              precision and effectiveness.",
+  journal  = "J. Am. Med. Inform. Assoc.",
+  volume   =  28,
+  number   =  3,
+  pages    = "616--621",
+  month    =  mar,
+  year     =  2021,
+  keywords = "COVID-19; clinical trial; eligibility criteria; information
+              filtering; questionnaire; web application",
+  language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Liu2018-ar,
+  title     = "Enrichment of {SNOMED} {CT} ophthalmology component to support
+               {EHR} coding",
+  author    = "Liu, H and Hildebrand, P L and Perl, Y and {others}",
+  abstract  = "The US government has offered major financial incentives to
+               encourage MDs, including ophthalmologists, to adopt Electronic
+               Health Records (EHRs) in their practices. SNOMED …",
+  journal   = "2018 IEEE International",
+  publisher = "ieeexplore.ieee.org",
+  year      =  2018
+}
+
+@ARTICLE{Sun2021-dv,
+  title    = "Building an {OMOP} common data model-compliant annotated corpus
+              for {COVID-19} clinical trials",
+  author   = "Sun, Yingcheng and Butler, Alex and Stewart, Latoya A and Liu,
+              Hao and Yuan, Chi and Southard, Christopher T and Kim, Jae Hyun
+              and Weng, Chunhua",
+  abstract = "Clinical trials are essential for generating reliable medical
+              evidence, but often suffer from expensive and delayed patient
+              recruitment because the unstructured eligibility criteria
+              description prevents automatic query generation for eligibility
+              screening. In response to the COVID-19 pandemic, many trials have
+              been created but their information is not computable. We included
+              700 COVID-19 trials available at the point of study and developed
+              a semi-automatic approach to generate an annotated corpus for
+              COVID-19 clinical trial eligibility criteria called COVIC. A
+              hierarchical annotation schema based on the OMOP Common Data
+              Model was developed to accommodate four levels of annotation
+              granularity: i.e., study cohort, eligibility criteria, named
+              entity and standard concept. In COVIC, 39 trials with more than
+              one study cohorts were identified and labelled with an identifier
+              for each cohort. 1,943 criteria for non-clinical characteristics
+              such as ``informed consent'', ``exclusivity of participation''
+              were annotated. 9767 criteria were represented by 18,161 entities
+              in 8 domains, 7,743 attributes of 7 attribute types and 16,443
+              relationships of 11 relationship types. 17,171 entities were
+              mapped to standard medical concepts and 1,009 attributes were
+              normalized into computable representations. COVIC can serve as a
+              corpus indexed by semantic tags for COVID-19 trial search and
+              analytics, and a benchmark for machine learning based criteria
+              extraction.",
+  journal  = "J. Biomed. Inform.",
+  volume   =  118,
+  pages    = "103790",
+  month    =  jun,
+  year     =  2021,
+  keywords = "COVID-19; Clinical trial; Eligibility criteria; Machine readable
+              dataset; Structured text corpus",
+  language = "en"
+}
+
+@ARTICLE{Zheng2019-gi,
+  title    = "Training a Convolutional Neural Network with Terminology
+              Summarization Data Improves {SNOMED} {CT} Enrichment",
+  author   = "Zheng, Ling and Liu, Hao and Perl, Yehoshua and Geller, James",
+  abstract = "As a step toward learning to automatically insert new concepts
+              into a large biomedical ontology, we are studying the easier
+              problem of automatically verifying that an IS-A link should exist
+              between a new child concept and an existing parent concept. We
+              are using a Convolutional Neural Network, a powerful machine
+              learning method. However, results depend on the quality of the
+              training data. We use SNOMED CT (July 2017) for training and the
+              subsequent release for testing. The main problem is to find a
+              good set of negative training data. We experiment with two
+              approaches, based on uncle-nephew (not connected) pairs of
+              concepts. We contrast using the complete Clinical Finding
+              hierarchy of SNOMED CT with using the powerful Area Taxonomy
+              ontology summarization mechanism to constrain the training data.
+              The results for the task of verifying IS-A links are improved by
+              8.6\% when going from the complete hierarchy to the Area
+              Taxonomy.",
+  journal  = "AMIA Annu. Symp. Proc.",
+  volume   =  2019,
+  pages    = "972--981",
+  year     =  2019,
+  language = "en"
+}
+
+@ARTICLE{Liu2020-kh,
+  title    = "Concept placement using {BERT} trained by transforming and
+              summarizing biomedical ontology structure",
+  author   = "Liu, Hao and Perl, Yehoshua and Geller, James",
+  abstract = "The comprehensive modeling and hierarchical positioning of a new
+              concept in an ontology heavily relies on its set of proper
+              subsumption relationships (IS-As) to other concepts. Identifying
+              a concept's IS-A relationships is a laborious task requiring
+              curators to have both domain knowledge and terminology skills. In
+              this work, we propose a method to automatically predict the
+              presence of IS-A relationships between a new concept and
+              pre-existing concepts based on the language representation model
+              BERT. This method converts the neighborhood network of a concept
+              into ``sentences'' and harnesses BERT's Next Sentence Prediction
+              (NSP) capability of predicting the adjacency of two sentences. To
+              augment our method's performance, we refined the training data by
+              employing an ontology summarization technique. We trained our
+              model with the two largest hierarchies of the SNOMED CT 2017 July
+              release and applied it to predicting the parents of new concepts
+              added in the SNOMED CT 2018 January release. The results showed
+              that our method achieved an average F1 score of 0.88, and the
+              average Recall score improves slightly from 0.94 to 0.96 by using
+              the ontology summarization technique.",
+  journal  = "J. Biomed. Inform.",
+  volume   =  112,
+  pages    = "103607",
+  month    =  dec,
+  year     =  2020,
+  keywords = "BERT; Machine learning; Natural language processing; Ontology
+              placement; Ontology summarization; SNOMED CT",
+  language = "en",
+  selected = {true}
+}
+
+@ARTICLE{Elhanan2017-dq,
+  title    = "From {SNOMED} {CT} to Uberon: Transferability of evaluation
+              methodology between similarly structured ontologies",
+  author   = "Elhanan, Gai and Ochs, Christopher and Mejino, Jr, Jose L V and
+              Liu, Hao and Mungall, Christopher J and Perl, Yehoshua",
+  abstract = "OBJECTIVE: To examine whether disjoint partial-area taxonomy, a
+              semantically-based evaluation methodology that has been
+              successfully tested in SNOMED CT, will perform with similar
+              effectiveness on Uberon, an anatomical ontology that belongs to a
+              structurally similar family of ontologies as SNOMED CT. METHOD: A
+              disjoint partial-area taxonomy was generated for Uberon. One
+              hundred randomly selected test concepts that overlap between
+              partial-areas were matched to a same size control sample of
+              non-overlapping concepts. The samples were blindly inspected for
+              non-critical issues and presumptive errors first by a general
+              domain expert whose results were then confirmed or rejected by a
+              highly experienced anatomical ontology domain expert. Reported
+              issues were subsequently reviewed by Uberon's curators. RESULTS:
+              Overlapping concepts in Uberon's disjoint partial-area taxonomy
+              exhibited a significantly higher rate of all issues. Clear-cut
+              presumptive errors trended similarly but did not reach
+              statistical significance. A sub-analysis of overlapping concepts
+              with three or more relationship types indicated a much higher
+              rate of issues. CONCLUSIONS: Overlapping concepts from Uberon's
+              disjoint abstraction network are quite likely (up to 28.9\%) to
+              exhibit issues. The results suggest that the methodology can
+              transfer well between same family ontologies. Although Uberon
+              exhibited relatively few overlapping concepts, the methodology
+              can be combined with other semantic indicators to expand the
+              process to other concepts within the ontology that will generate
+              high yields of discovered issues.",
+  journal  = "Artif. Intell. Med.",
+  volume   =  79,
+  pages    = "9--14",
+  month    =  jun,
+  year     =  2017,
+  keywords = "Anatomy ontology; Disjoint abstraction network; Overlapping
+              concepts; Quality assurance; Semantic complexity",
+  language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Liu_undated-sn,
+  title    = "Can a convolutional neural network support auditing of nci
+              thesaurus neoplasm concepts?",
+  author   = "Liu, H and Zheng, L and Perl, Y and Geller, J and Elhanan, G",
+  abstract = "Paper Title (use style: paper title) Page 1 Can a Convolutional
+              Neural Network Support Auditing of NCI Thesaurus Neoplasm
+              Concepts? Hao Liu1, Ling Zheng2, Yehoshua Perl1, James …",
+  journal  = "researchgate.net",
+  year     = 2018,
+}
+
+@ARTICLE{Liu2018-al,
+  title    = "Using Convolutional Neural Networks to Support Insertion of New
+              Concepts into {SNOMED} {CT}",
+  author   = "Liu, Hao and Geller, James and Halper, Michael and Perl, Yehoshua",
+  abstract = "Many major medical ontologies go through a regular (bi-annual,
+              monthly, etc.) release cycle. A new release will contain
+              corrections to the previous release, as well as genuinely new
+              concepts that are the result of either user requests or new
+              developments in the domain. New concepts need to be placed at the
+              correct place in the ontology hierarchy. Traditionally, this is
+              done by an expert modeling a new concept and running a classifier
+              algorithm. We propose an alternative approach that is based on
+              providing only the name of a new concept and using a
+              Convolutional Neural Network-based machine learning method. We
+              first tested this approach within one version of SNOMED CT and
+              achieved an average 88.5\% precision and an F1 score of 0.793. In
+              comparing the July 2017 release with the January 2018 release,
+              limiting ourselves to predicting one out of two or more parents,
+              our average F1 score was 0.701.",
+  journal  = "AMIA Annu. Symp. Proc.",
+  volume   =  2018,
+  pages    = "750--759",
+  month    =  dec,
+  year     =  2018,
+  language = "en"
+}
+
+@ARTICLE{Liu2021-hf,
+  title    = "A knowledge base of clinical trial eligibility criteria",
+  author   = "Liu, Hao and Chi, Yuan and Butler, Alex and Sun, Yingcheng and
+              Weng, Chunhua",
+  abstract = "OBJECTIVE: We present the Clinical Trial Knowledge Base, a
+              regularly updated knowledge base of discrete clinical trial
+              eligibility criteria equipped with a web-based user interface for
+              querying and aggregate analysis of common eligibility criteria.
+              MATERIALS AND METHODS: We used a natural language processing
+              (NLP) tool named Criteria2Query (Yuan et al., 2019) to transform
+              free text clinical trial eligibility criteria from
+              ClinicalTrials.gov into discrete criteria concepts and attributes
+              encoded using the widely adopted Observational Medical Outcomes
+              Partnership (OMOP) Common Data Model (CDM) and stored in a
+              relational SQL database. A web application accessible via RESTful
+              APIs was implemented to enable queries and visual aggregate
+              analyses. We demonstrate CTKB's potential role in EHR phenotype
+              knowledge engineering using ten validated phenotyping algorithms.
+              RESULTS: At the time of writing, CTKB contained 87,504
+              distinctive OMOP CDM standard concepts, including Condition
+              (47.82\%), Drug (23.01\%), Procedure (13.73\%), Measurement
+              (24.70\%) and Observation (5.28\%), with 34.78\% for inclusion
+              criteria and 65.22\% for exclusion criteria, extracted from
+              352,110 clinical trials. The average hit rate of criteria
+              concepts in eMERGE phenotype algorithms is 77.56\%. CONCLUSION:
+              CTKB is a novel comprehensive knowledge base of discrete
+              eligibility criteria concepts with the potential to enable
+              knowledge engineering for clinical trial cohort definition,
+              clinical trial population representativeness assessment,
+              electronical phenotyping, and data gap analyses for using
+              electronic health records to support clinical trial recruitment.",
+  journal  = "J. Biomed. Inform.",
+  volume   =  117,
+  pages    = "103771",
+  month    =  may,
+  year     =  2021,
+  keywords = "Clinical Trial; Eligibility Criteria; Knowledge Base; Natural
+              Language Processing",
+  language = "en",
+  selected = {true}
+}
+
+@ARTICLE{Liu2019-zi,
+  title    = "Transfer Learning from {BERT} to Support Insertion of New
+              Concepts into {SNOMED} {CT}",
+  author   = "Liu, Hao and Perl, Yehoshua and Geller, James",
+  abstract = "With advances in Machine Learning (ML), neural network-based
+              methods, such as Convolutional/Recurrent Neural Networks, have
+              been proposed to assist terminology curators in the development
+              and maintenance of terminologies. Bidirectional Encoder
+              Representations from Transformers (BERT), a new language
+              representation model, obtains state-of-the-art results on a wide
+              array of general English NLP tasks. We explore BERT's
+              applicability to medical terminology-related tasks. Utilizing the
+              ``next sentence prediction'' capability of BERT, we show that the
+              Fine-tuning strategy of Transfer Learning (TL) from the BERTBASE
+              model can address a challenging problem in automatic terminology
+              enrichment - insertion of new concepts. Adding a pre-training
+              strategy enhances the results. We apply our strategies to the two
+              largest hierarchies of SNOMED CT, with one release as training
+              data and the following release as test data. The performance of
+              the combined two proposed TL models achieves an average F1 score
+              of 0.85 and 0.86 for the two hierarchies, respectively.",
+  journal  = "AMIA Annu. Symp. Proc.",
+  volume   =  2019,
+  pages    = "1129--1138",
+  year     =  2019,
+  language = "en"
+}
+
+@ARTICLE{Kim2021-cn,
+  title    = "Towards clinical data-driven eligibility criteria optimization
+              for interventional {COVID-19} clinical trials",
+  author   = "Kim, Jae Hyun and Ta, Casey N and Liu, Cong and Sung, Cynthia and
+              Butler, Alex M and Stewart, Latoya A and Ena, Lyudmila and
+              Rogers, James R and Lee, Junghwan and Ostropolets, Anna and Ryan,
+              Patrick B and Liu, Hao and Lee, Shing M and Elkind, Mitchell S V
+              and Weng, Chunhua",
+  abstract = "OBJECTIVE: This research aims to evaluate the impact of
+              eligibility criteria on recruitment and observable clinical
+              outcomes of COVID-19 clinical trials using electronic health
+              record (EHR) data. MATERIALS AND METHODS: On June 18, 2020, we
+              identified frequently used eligibility criteria from all the
+              interventional COVID-19 trials in ClinicalTrials.gov (n = 288),
+              including age, pregnancy, oxygen saturation, alanine/aspartate
+              aminotransferase, platelets, and estimated glomerular filtration
+              rate. We applied the frequently used criteria to the EHR data of
+              COVID-19 patients in Columbia University Irving Medical Center
+              (CUIMC) (March 2020-June 2020) and evaluated their impact on
+              patient accrual and the occurrence of a composite endpoint of
+              mechanical ventilation, tracheostomy, and in-hospital death.
+              RESULTS: There were 3251 patients diagnosed with COVID-19 from
+              the CUIMC EHR included in the analysis. The median follow-up
+              period was 10 days (interquartile range 4-28 days). The composite
+              events occurred in 18.1\% (n = 587) of the COVID-19 cohort during
+              the follow-up. In a hypothetical trial with common eligibility
+              criteria, 33.6\% (690/2051) were eligible among patients with
+              evaluable data and 22.2\% (153/690) had the composite event.
+              DISCUSSION: By adjusting the thresholds of common eligibility
+              criteria based on the characteristics of COVID-19 patients, we
+              could observe more composite events from fewer patients.
+              CONCLUSIONS: This research demonstrated the potential of using
+              the EHR data of COVID-19 patients to inform the selection of
+              eligibility criteria and their thresholds, supporting data-driven
+              optimization of participant selection towards improved
+              statistical power of COVID-19 trials.",
+  journal  = "J. Am. Med. Inform. Assoc.",
+  volume   =  28,
+  number   =  1,
+  pages    = "14--22",
+  month    =  jan,
+  year     =  2021,
+  keywords = "COVID-19, criteria optimization ; clinical trial; eligibility
+              criteria; real-world data",
+  language = "en"
+}
+
+@ARTICLE{Kury2020-mk,
+  title    = "Chia, a large annotated corpus of clinical trial eligibility
+              criteria",
+  author   = "Kury, Fabr{\'\i}cio and Butler, Alex and Yuan, Chi and Fu,
+              Li-Heng and Sun, Yingcheng and Liu, Hao and Sim, Ida and Carini,
+              Simona and Weng, Chunhua",
+  abstract = "We present Chia, a novel, large annotated corpus of patient
+              eligibility criteria extracted from 1,000 interventional, Phase
+              IV clinical trials registered in ClinicalTrials.gov. This dataset
+              includes 12,409 annotated eligibility criteria, represented by
+              41,487 distinctive entities of 15 entity types and 25,017
+              relationships of 12 relationship types. Each criterion is
+              represented as a directed acyclic graph, which can be easily
+              transformed into Boolean logic to form a database query. Chia can
+              serve as a shared benchmark to develop and test future machine
+              learning, rule-based, or hybrid methods for information
+              extraction from free-text clinical trial eligibility criteria.",
+  journal  = "Sci Data",
+  volume   =  7,
+  number   =  1,
+  pages    = "281",
+  month    =  aug,
+  year     =  2020,
+  language = "en"
+}
+
+
