@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>hl2659 @ columbia dot edu</p>
+    <p>hl2659 at columbia dot edu</p>
     <p>622 W. 168th Street, PH20</p>
     <p>New York, NY 10032</p>
 

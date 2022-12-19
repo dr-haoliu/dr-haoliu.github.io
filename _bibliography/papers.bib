@@ -3,11 +3,6 @@
 
 @string{aps = {American Physical Society,}}
 
----
----
-
-@string{aps = {American Physical Society,}}
-
 @ARTICLE{Liu2022-kt,
   title    = "Ontology-based categorization of clinical studies by their
               conditions",
@@ -51,6 +46,49 @@
   language = "en",
   selected = {true},
   abbr={JBI},
+}
+
+@ARTICLE{Liu2021-hf,
+  title    = "A knowledge base of clinical trial eligibility criteria",
+  author   = "Liu, Hao and Chi, Yuan and Butler, Alex and Sun, Yingcheng and
+              Weng, Chunhua",
+  abstract = "OBJECTIVE: We present the Clinical Trial Knowledge Base, a
+              regularly updated knowledge base of discrete clinical trial
+              eligibility criteria equipped with a web-based user interface for
+              querying and aggregate analysis of common eligibility criteria.
+              MATERIALS AND METHODS: We used a natural language processing
+              (NLP) tool named Criteria2Query (Yuan et al., 2019) to transform
+              free text clinical trial eligibility criteria from
+              ClinicalTrials.gov into discrete criteria concepts and attributes
+              encoded using the widely adopted Observational Medical Outcomes
+              Partnership (OMOP) Common Data Model (CDM) and stored in a
+              relational SQL database. A web application accessible via RESTful
+              APIs was implemented to enable queries and visual aggregate
+              analyses. We demonstrate CTKB's potential role in EHR phenotype
+              knowledge engineering using ten validated phenotyping algorithms.
+              RESULTS: At the time of writing, CTKB contained 87,504
+              distinctive OMOP CDM standard concepts, including Condition
+              (47.82\%), Drug (23.01\%), Procedure (13.73\%), Measurement
+              (24.70\%) and Observation (5.28\%), with 34.78\% for inclusion
+              criteria and 65.22\% for exclusion criteria, extracted from
+              352,110 clinical trials. The average hit rate of criteria
+              concepts in eMERGE phenotype algorithms is 77.56\%. CONCLUSION:
+              CTKB is a novel comprehensive knowledge base of discrete
+              eligibility criteria concepts with the potential to enable
+              knowledge engineering for clinical trial cohort definition,
+              clinical trial population representativeness assessment,
+              electronical phenotyping, and data gap analyses for using
+              electronic health records to support clinical trial recruitment.",
+  journal  = "J. Biomed. Inform.",
+  volume   =  117,
+  pages    = "103771",
+  month    =  may,
+  year     =  2021,
+  keywords = "Clinical Trial; Eligibility Criteria; Knowledge Base; Natural
+              Language Processing",
+  language = "en",
+  selected = {true},
+    abbr={JBI},
 }
 
 @ARTICLE{Lin2022-sw,
@@ -841,48 +879,7 @@
     abbr={AMIA},
 }
 
-@ARTICLE{Liu2021-hf,
-  title    = "A knowledge base of clinical trial eligibility criteria",
-  author   = "Liu, Hao and Chi, Yuan and Butler, Alex and Sun, Yingcheng and
-              Weng, Chunhua",
-  abstract = "OBJECTIVE: We present the Clinical Trial Knowledge Base, a
-              regularly updated knowledge base of discrete clinical trial
-              eligibility criteria equipped with a web-based user interface for
-              querying and aggregate analysis of common eligibility criteria.
-              MATERIALS AND METHODS: We used a natural language processing
-              (NLP) tool named Criteria2Query (Yuan et al., 2019) to transform
-              free text clinical trial eligibility criteria from
-              ClinicalTrials.gov into discrete criteria concepts and attributes
-              encoded using the widely adopted Observational Medical Outcomes
-              Partnership (OMOP) Common Data Model (CDM) and stored in a
-              relational SQL database. A web application accessible via RESTful
-              APIs was implemented to enable queries and visual aggregate
-              analyses. We demonstrate CTKB's potential role in EHR phenotype
-              knowledge engineering using ten validated phenotyping algorithms.
-              RESULTS: At the time of writing, CTKB contained 87,504
-              distinctive OMOP CDM standard concepts, including Condition
-              (47.82\%), Drug (23.01\%), Procedure (13.73\%), Measurement
-              (24.70\%) and Observation (5.28\%), with 34.78\% for inclusion
-              criteria and 65.22\% for exclusion criteria, extracted from
-              352,110 clinical trials. The average hit rate of criteria
-              concepts in eMERGE phenotype algorithms is 77.56\%. CONCLUSION:
-              CTKB is a novel comprehensive knowledge base of discrete
-              eligibility criteria concepts with the potential to enable
-              knowledge engineering for clinical trial cohort definition,
-              clinical trial population representativeness assessment,
-              electronical phenotyping, and data gap analyses for using
-              electronic health records to support clinical trial recruitment.",
-  journal  = "J. Biomed. Inform.",
-  volume   =  117,
-  pages    = "103771",
-  month    =  may,
-  year     =  2021,
-  keywords = "Clinical Trial; Eligibility Criteria; Knowledge Base; Natural
-              Language Processing",
-  language = "en",
-  selected = {true},
-    abbr={JBI},
-}
+
 
 @ARTICLE{Liu2019-zi,
   title    = "Transfer Learning from {BERT} to Support Insertion of New
