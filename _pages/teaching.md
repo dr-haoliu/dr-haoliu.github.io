@@ -6,27 +6,28 @@ description: Classes, workshops, and teaching material
 nav: true
 nav_order: 5
 ---
+<div class="cv">
 
 <h3 class="mt-4">Columbia University</h3>
 
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Biomedical Informatics seminar</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
-            G 4099 
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Teacher and course co-organizer</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Graduate-level seminar course for masters and PhD students.</li>
-      <li> I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
-    </ul>
+<div class="card mt-3 p-3">
+
+<div class="row">
+  <div class="col-sm-10">
+    <h5 class="font-weight-bold">Biomedical Informatics seminar</h5>
   </div>
+  <div class="col-sm-2 text-left text-sm-right">
+    <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+        G 4099 
+    </span>
+  </div>
+</div>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Teacher and course co-organizer</h6>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  <li class="list-group-item"> Graduate-level seminar course for masters and PhD students.</li>
+  <li class="list-group-item"> I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
+</ul>
+
 </div>
 
 <h3 class="mt-4">New Jersey Institute of Technology</h3>
@@ -151,10 +152,10 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2011: Teaching assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Undergraduate level introduction to Data mining course.</li>
-      <li> I led the recitation class and graded homeworks.</li>
+      <li class="list-group-item"> Undergraduate level introduction to Data mining course.</li>
+      <li class="list-group-item"> I led the recitation class and graded homeworks.</li>
     </ul>
   </div>
 </div>
 
-
+</div>
