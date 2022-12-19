@@ -23,8 +23,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Teacher and course co-organizer</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate-level seminar course for masters and PhD students.</li>
-      <li class="list-group-item">○ I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
+      <li>○ Graduate-level seminar course for masters and PhD students.</li>
+      <li>○ I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
     </ul>
   </div>
 </div>
