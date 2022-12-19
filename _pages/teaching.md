@@ -24,8 +24,8 @@ nav_order: 5
 </div>
 <h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Teacher and course co-organizer</h6>
 <ul class="card-text font-weight-light list-group list-group-flush">
-  <li class="list-group-item"> Graduate-level seminar course for masters and PhD students.</li>
-  <li class="list-group-item"> I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
+  <li class="list-group-item">○ Graduate-level seminar course for masters and PhD students.</li>
+  <li class="list-group-item">○ I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
 </ul>
 
 </div>
@@ -46,8 +46,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2018: Lab instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Undergraduate-level introduction to machine learning course.</li>
-      <li> I lectured lab classes and mentored students working on class projects, held recitations, created and graded homeworks and exams.</li>
+      <li class="list-group-item">○ Undergraduate-level introduction to machine learning course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, held recitations, created and graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
@@ -67,8 +67,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2017 & Fall 2015: Lab instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Undergraduate level introduction to python programming course.</li>
-      <li> I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
+      <li class="list-group-item">○ Undergraduate level introduction to python programming course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
@@ -88,8 +88,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2017: Teaching assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Graduate-level course on data-structures and algorithms.</li>
-      <li> I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
+      <li class="list-group-item">○ Graduate-level course on data-structures and algorithms.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
@@ -109,8 +109,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2017 & Fall 2016: Teaching assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Undergraduate and graduate level Advanced Data Structure-Algorithm Design course.</li>
-      <li> I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
+      <li class="list-group-item">○ Undergraduate and graduate level Advanced Data Structure-Algorithm Design course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
@@ -130,8 +130,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Lab instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li> Undergraduate and graduate level introduction to Database System course.</li>
-      <li> I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
+      <li class="list-group-item">○ Undergraduate and graduate level introduction to Database System course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
@@ -152,8 +152,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2011: Teaching assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> Undergraduate level introduction to Data mining course.</li>
-      <li class="list-group-item"> I led the recitation class and graded homeworks.</li>
+      <li class="list-group-item">○ Undergraduate level introduction to Data mining course.</li>
+      <li class="list-group-item">○ I led the recitation class and graded homeworks.</li>
     </ul>
   </div>
 </div>
