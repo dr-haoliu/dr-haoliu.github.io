@@ -4,7 +4,7 @@ title: Steer-Prediction from Camera Images for Self Driving Car
 description: NJIT CS782 Pattern Recognition & Applications Course Project
 img: assets/img/project_4/track1.png
 importance: 3
-category: fun
+category: personal
 ---
 
 Source reference: [Udacity's Self-Driving Car Nanodegree project 3 - Behavioural Cloning](https://www.udacity.com/nanodegree)
