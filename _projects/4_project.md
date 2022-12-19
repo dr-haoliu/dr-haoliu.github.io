@@ -87,19 +87,19 @@ Deep learning model is trained only on **Track 1** data. To assess the trained m
 ### Data Format/Component
 * **Camera Frame:**
   * There are 3 cameras on the car which shows left, center and right images for each steering angle. 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/project_4/camera_frame.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/camera_frame.png" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 
 * **Driving Log:**
   * After recording and save data, the simulator saves all the frame images in `IMG` folder and produces a `driving_log.csv` file which containts all the information needed for data preparation such as path to images folder, steering angle at each frame, throttle, brake and speed values.
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/project_4/drive_log.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/drive_log.png" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 
 In this project, we only need to predict steering angle. So we will ignore throttle, brake and speed information.
 
@@ -253,19 +253,18 @@ When we process the left and right camera, we add corrections (+0.25 or -0.25) f
 
 The chosen left/right images and adjusted angles are then added into driving left or driving right lists. Here is the logic:
      **_adjustment_angle = 0.25_** 
-  1. **Left turn**_(negative angle)_: + adjustment_angle on left image, - adjustment_angle on right image
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/project_4/left_turn.png" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </div>
+1. **Left turn**_(negative angle)_: + adjustment_angle on left image, - adjustment_angle on right image
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/project_4/left_turn.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
   2. **Right turn**_(positive angle)_: + adjustment_angle on left image, - adjustment_angle on right image
-
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/project_4/right_turn.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/right_turn.png" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 ### Generators
 There are two generators in this project. **Training generator** is to generate samples per batches to feed into fit_generator(). fit_generator() is used to fit the training model. At each batch, random samples are picked, applied augmentation and preprocessing . So training samples feeding into model is always different. **Validation generator** is also to feed random samples in batches for validation, unlike training generator, only central images are used here and only proprocessing is applied. 
 
