@@ -7,13 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-CS 115 - Intro to C++	Spring 2018	Lab instructor
-CS 106 - Intro to Python	Fall 2017 & Fall 2015  	Lab instructor
-CS 610 - Data Structure & Algorithm	Spring 2017	Teaching assistant
-CS 435 - Adv Data Structure-Algorithm Design	Spring 2017 & Fall 2016 	Teaching assistant
-CS 431 - Intro to Database System	Spring 2016	Lab instructor
-
-
 <h3 class="mt-4">Columbia University</h3>
 
 <div class="card mt-3">
@@ -134,7 +127,7 @@ CS 431 - Intro to Database System	Spring 2016	Lab instructor
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Teaching assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Lab instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">○ Undergraduate and graduate level introduction to Database System course.</li>
       <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
