@@ -7,14 +7,6 @@ importance: 2
 category: work
 ---
 
-- **Objective** The free-text Condition data field in the ClinicalTrials.gov is not amenable to computational processes for retrieving, aggregating and visualizing clinical studies by condition categories. This paper contributes a method for automated ontology-based categorization of clinical studies by their conditions. 
-
-- **Materials and Methods** Our method first maps text entries in ClinicalTrials.gov’s Condition field to standard condition concepts in the OMOP Common Data Model by using SNOMED CT as a reference ontology and using Usagi for concept normalization, followed by hierarchical traversal of the SNOMED ontology for concept expansion, ontology-driven condition categorization, and visualization. We compared the accuracy of this method to that of the MeSH-based method. 
-
-- **Results** We reviewed the 4,506 studies on Vivli.org categorized by our method. Condition terms of 4,501 (99.89%) studies were successfully mapped to SNOMED CT concepts, and with a minimum concept mapping score threshold, 4,428 (98.27%) studies were categorized into 31 predefined categories. When validating with manual categorization results on a random sample of 300 studies, our method achieved an estimated categorization accuracy of 95.7%, while the MeSH-based method had an accuracy of 85.0%. 
-
-- **Conclusion** We showed that categorizing clinical studies using their Condition terms with referencing to SNOMED CT achieved a better accuracy and coverage than using MeSH terms. The proposed ontology-driven condition categorization was useful to create accurate clinical study categorization that enables clinical researchers to aggregate evidence from a large number of clinical studies.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_1/Graph_Abstract.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -28,7 +20,22 @@ Our system is comprised of a user-configured module called Category Design and a
     <li>(3) a categorization module for automatically classifying a study to categories. </li>
 </ul>
 </div>
- 
+
+The source code of this project is available at
+https://github.com/dr-haoliu/ontology-based-clinical-study-categorization
+
+The demo is available is at:  http://cliver.chunhualab.org:8090/
+
+- **Objective** The free-text Condition data field in the ClinicalTrials.gov is not amenable to computational processes for retrieving, aggregating and visualizing clinical studies by condition categories. This paper contributes a method for automated ontology-based categorization of clinical studies by their conditions. 
+
+- **Materials and Methods** Our method first maps text entries in ClinicalTrials.gov’s Condition field to standard condition concepts in the OMOP Common Data Model by using SNOMED CT as a reference ontology and using Usagi for concept normalization, followed by hierarchical traversal of the SNOMED ontology for concept expansion, ontology-driven condition categorization, and visualization. We compared the accuracy of this method to that of the MeSH-based method. 
+
+- **Results** We reviewed the 4,506 studies on Vivli.org categorized by our method. Condition terms of 4,501 (99.89%) studies were successfully mapped to SNOMED CT concepts, and with a minimum concept mapping score threshold, 4,428 (98.27%) studies were categorized into 31 predefined categories. When validating with manual categorization results on a random sample of 300 studies, our method achieved an estimated categorization accuracy of 95.7%, while the MeSH-based method had an accuracy of 85.0%. 
+
+- **Conclusion** We showed that categorizing clinical studies using their Condition terms with referencing to SNOMED CT achieved a better accuracy and coverage than using MeSH terms. The proposed ontology-driven condition categorization was useful to create accurate clinical study categorization that enables clinical researchers to aggregate evidence from a large number of clinical studies.
+
+
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
