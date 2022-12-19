@@ -211,17 +211,38 @@ Structure summary of above three models implemented with Keras:
 ### 1. NVIDIA Model
 |Model           |  Model Layer Details |
 |-------------------------|-------------------------|
-|![alt text][model1] | ![alt text][model1_detail] |
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model1_detail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### 2. Comma.ai Model 
 |Model           |  Model Layer Details |
 |-------------------------|-------------------------|
-|![alt text][model2] | ![alt text][model2_detail] |
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model2_detail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### 3. Simplified VGG Net - with configuration A
 |Model           |  Model Layer Details |
 |-------------------------|-------------------------|
-|![alt text][model3] | ![alt text][model3_detail] |
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model3_detail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 ## Model Training
