@@ -7,66 +7,161 @@ nav: true
 nav_order: 5
 ---
 
-<h3 class="mt-4">Carnegie Mellon University</h3>
+CS 115 - Intro to C++	Spring 2018	Lab instructor
+CS 106 - Intro to Python	Fall 2017 & Fall 2015  	Lab instructor
+CS 610 - Data Structure & Algorithm	Spring 2017	Teaching assistant
+CS 435 - Adv Data Structure-Algorithm Design	Spring 2017 & Fall 2016 	Teaching assistant
+CS 431 - Intro to Database System	Spring 2016	Lab instructor
+
+
+<h3 class="mt-4">Columbia University</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+        <h5 class="font-weight-bold">Biomedical Informatics seminar</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="https://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">
-            10-701
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+            G 4099 
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2018: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Teacher and course co-organizer</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate-level introduction to machine learning course for masters and PhD students, taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank">Prof. Pradeep Ravikumar</a> and  <a href="https://www.cs.cmu.edu/~mmv/" target="_blank">Prof. Manuela Veloso</a>.</li>
-      <li class="list-group-item">○ I mentored groups of students working on class projects, held recitations, created and graded homeworks and exams.</li>
-      <li class="list-group-item">○ I was awarded a Machine Learning Department <a href="https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html" target="_blank">Teaching Assistant Award</a>.</li>
-      <li class="list-group-item">○ Course materials can be found <a href="http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">here</a>.</li>
+      <li class="list-group-item">○ Graduate-level seminar course for masters and PhD students.</li>
+      <li class="list-group-item">○ I invited and coordinated speakers, led the seminar and supervised students on seminar participation.</li>
     </ul>
   </div>
 </div>
 
+<h3 class="mt-4">New Jersey Institute of Technology</h3>
+
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Topics in Deep Learning</h5>
+        <h5 class="font-weight-bold">Introduction to C++</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+            CS 115
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2018: Lab instructor</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Undergraduate-level introduction to machine learning course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, held recitations, created and graded homeworks and exams.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Python</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
-            10-707
+            CS 106
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2017: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2017 & Fall 2015: Lab instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate level introduction to machine learning class for masters and PhD students taught by  <a href="https://www.cs.cmu.edu/~rsalakhu/" target="_blank">Prof. Ruslan Salakhutdinov</a>.</li>
-      <li class="list-group-item">○ I mentored groups of students working on class projects, graded homeworks and exams.</li>
-      <li class="list-group-item">○ Course materials can be found <a href="http://www.cs.cmu.edu/~rsalakhu/10707/" target="_blank">here</a>.</li>
+      <li class="list-group-item">○ Undergraduate level introduction to python programming course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
 
-<h3 class="mt-4">Politehnica University of Timisoara</h3>
+
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Competitive Programming Seminar</h5>
+        <h5 class="font-weight-bold">Data Structure & Algorithm</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            CS 610
+        </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2013, Spring 2014: Lecturer and course co-organizer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2017: Teaching assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ I co-organized a <a href="https://www.meetup.com/Cerc-algoritmica-TM" target="_blank">competitive programming seminar</a> for university and high-school students interested to train for algorithmic competitions (e.g. ACM-ICPC, informatics olympiad).</li>
-      <li class="list-group-item">○ I taught algorithms and data structures used in competitive programming, designed and solved practice problems and internal competitions.</li>
+      <li class="list-group-item">○ Graduate-level course on data-structures and algorithms.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
     </ul>
   </div>
 </div>
 
 
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Advanced Data Structure-Algorithm Design</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            CS 435
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2017 & Fall 2016: Teaching assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Undergraduate and graduate level Advanced Data Structure-Algorithm Design course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
+    </ul>
   </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Database System</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            CS 431
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Teaching assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Undergraduate and graduate level introduction to Database System course.</li>
+      <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
+    </ul>
+  </div>
+</div>
+
+<h3 class="mt-4">New York Institute of Technology</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Data Mining</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            CSCI 657
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2011: Teaching assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Undergraduate level introduction to Data mining course.</li>
+      <li class="list-group-item">○ I led the recitation class and graded homeworks.</li>
+    </ul>
+  </div>
+</div>
+
+

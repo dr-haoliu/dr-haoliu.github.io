@@ -8,3 +8,8 @@
 "JBI":
   url: https://www.sciencedirect.com/journal/journal-of-biomedical-informatics
   color: "#00369f"
+
+"JAMIA":
+  url: https://academic.oup.com/jamia
+  color: "#4dd3c0"
+
