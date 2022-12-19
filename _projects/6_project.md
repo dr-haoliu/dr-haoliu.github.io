@@ -5,7 +5,7 @@ description: Diffusers provides pretrained diffusion models across multiple moda
 img: assets/img/project_6/figure1.jpg
 redirect: https://github.com/dr-haoliu/diffusers
 importance: 4
-category: fun
+category: personal
 ---
 
 
