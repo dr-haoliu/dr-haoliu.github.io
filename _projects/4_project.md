@@ -7,10 +7,6 @@ importance: 3
 category: fun
 ---
 
-# Steer-Prediction from Camera Images for Self Driving Car
-
-NJIT CS782 Pattern Recognition & Applications Course Project 
-
 Source reference: [Udacity's Self-Driving Car Nanodegree project 3 - Behavioural Cloning](https://www.udacity.com/nanodegree)
 
 ## Abstract
@@ -34,10 +30,19 @@ The project is consisted of the following modules:
 Deep learning model is trained only on **Track 1** data. To assess the trained model's performance, the car has to successfully drive by itself without getting off the road on **Track 1** and drive the entire **Track 2** without getting off the road.
 
 **Track 1**: *flat road, mostly straight driving, occasionally sharp turns, bright day light.*
-<img src="assets/img/project_4/track1.png" alt="track 1" width="70%" height="70%">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/track1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 **Track 2**: *hilly road, many light turns and sharp turns, dark environment, heavy shadows*
-<img src="assets/img/project_4/track2.png" alt="track 2" width="70%" height="70%">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/track2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Setup and Environment
 
@@ -82,35 +87,64 @@ Deep learning model is trained only on **Track 1** data. To assess the trained m
 ### Data Format/Component
 * **Camera Frame:**
   * There are 3 cameras on the car which shows left, center and right images for each steering angle. 
-    ![alt text][camera_frame]
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/project_4/camera_frame.png" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 
 * **Driving Log:**
   * After recording and save data, the simulator saves all the frame images in `IMG` folder and produces a `driving_log.csv` file which containts all the information needed for data preparation such as path to images folder, steering angle at each frame, throttle, brake and speed values.
-    ![alt text][drive_log]
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/project_4/drive_log.png" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 
 In this project, we only need to predict steering angle. So we will ignore throttle, brake and speed information.
 
 ### Smooth Steering Angle
 Since driving data was collected using keyboard inputs, the input time-series is very choppy. To smooth the data, I used a simple moving average, with a window of 3 time units (i.e. 0.3 seconds). Below is a plot of the raw and smoothed steering angle over time, for a random section in my normal driving data: 
-![alt text][smooth]
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/smooth.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### Data Balancing 
 Collected data is not balanced, we can see the steering angle historgram as shown below and data balancing is a crucial step for network to have good performance!
 
-![alt text][samples_hist1]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/samples_hist1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 In order to balance the data, first, we can draw a histogram to see which steering angle ranges are most dominating in the sample space(high bins in the drawing). Secondly, we can calculate average samples per bin(as **average_samples_per_bin**) by dividing the total number of samples by the number of bins(200). Thirdly, we can determine keep probability for each bin: if the number of samples in a bin is below **average_samples_per_bin**, keep all; otherwise, the keep probability is set proportional to the number of samples above the average, in order to bring the number of samples for that bin down to the average.
 
-![alt text][samples_hist2]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/samples_hist2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 We can see from above figure, still, most of the steer angles are around the center(0 degree). There is very low probability that we will pick up the large angle portion samples. Thus, we need to further reduce the number of high bins, and this is done by function `balance_data()`. I use this function to bring the number of samples in each bin to 100 at most among 100 bins. After these steps, I had 4417 number of data points. The results are shown below:
 
-![alt text][hist]
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/hist.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ## Data Augmentation
 Apparently, 4417 samples is a small training set, but we can apply some tricks that are already widly used for image classification to generate more samples:
 
-![alt text][augmentation] 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/augmentation.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
    reference: [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
@@ -118,20 +152,33 @@ Here I chose 4 methods which are relevant to this project:
 
 * **Image Flipping**: In track 1, most of the turns are left turns, so I flipped images and angles. As a result, the network would learn both left and right turns properly. Here are two images that have then been flipped:
 
-![alt text][flip]
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/flip.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 * **Brightness Augmentation**: In order to learn a more general model, I randomly changed the image's brightness in HSV space(function *brightness_change*):
 
-![alt text][brightness]
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/brightness.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 * **Shadow augmentation**: To deal with tree, building or other object shadow on the road, random shadows are cast across the image. This is implemented by choosing random points and shading all points on one side (chosen randomly) of the image(function *add_random_shadow*):
 
-![alt text][shadow]
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/shadow.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 * **Horizontal and vertical shifts**: To simulate the effect of car being at different positions (driving up or down the slope) on the road, we can shift the camera images horizontally (vertically) and add an offset corresponding to the steering angle. We added 0.004 steering angle units per pixel shift to the right, and subtracted 0.004 steering angle units per pixel shift to the left(function *trans_image*):
 
-![alt text][shifted]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/shifted.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Note: I only use data augmentation in training phase, thus for each data point(sample), I will select FOUR images: center, left, right and horizontal shifting on center image. Then these four images then go through data augmentation process: Image Flipping, Brightness Augmentation and Shadow Augmentation. 
 In validation phase, only center images with simulator provided angle labels are used to guarantee accuracy. 
@@ -181,8 +228,12 @@ Structure summary of above three models implemented with Keras:
 ### Image Crop
 1. To help the system avoid learning other part of the image but only the track, we can crop the up part (sky) and bottom part (front part of the car deck) out of the image. Original image size (160x320), after cropping 60px on top and 20px on the bottom, and 10px from left and right, the new image size is (80x300).
 2. To help running a smaller training model, images are scaled to size (66x200) from cropped size (80x300).
-![alt text][process_image]
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/process_image.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ### Convert to YUV color channels
 The input image is split into YUV planes and passed to the network (reference the [NVIDIA paper](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)).
 ![alt text][convert2YUV]
@@ -203,10 +254,18 @@ When we process the left and right camera, we add corrections (+0.25 or -0.25) f
 The chosen left/right images and adjusted angles are then added into driving left or driving right lists. Here is the logic:
      **_adjustment_angle = 0.25_** 
   1. **Left turn**_(negative angle)_: + adjustment_angle on left image, - adjustment_angle on right image
-  ![alt text][left_turn]
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/project_4/left_turn.png" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
   2. **Right turn**_(positive angle)_: + adjustment_angle on left image, - adjustment_angle on right image
-  ![alt text][right_turn]
 
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/project_4/right_turn.png" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 ### Generators
 There are two generators in this project. **Training generator** is to generate samples per batches to feed into fit_generator(). fit_generator() is used to fit the training model. At each batch, random samples are picked, applied augmentation and preprocessing . So training samples feeding into model is always different. **Validation generator** is also to feed random samples in batches for validation, unlike training generator, only central images are used here and only proprocessing is applied. 
 
@@ -220,12 +279,20 @@ There are two generators in this project. **Training generator** is to generate 
 ## Performance & Evaluation
 
 ### 1. NVIDIA Model
-![alt text][model1_track1_gif]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model1_track1.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 [Youtube track 1](https://youtu.be/is49elVxbgc?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
-![alt text][model1_track2_gif]
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model1_track2.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 [Youtube track 2](https://youtu.be/GGblJz5YFFM?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
 ### 2. Comma.ai Model
@@ -233,12 +300,20 @@ There are two generators in this project. **Training generator** is to generate 
 [Youtube link]
 
 ### 3. Simplified VGG Net - with configuration A
-![alt text][model3_track1_gif]
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model1_track1model3_track1.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 [Youtube track 1](https://youtu.be/iyrtscvcQV8?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
-![alt text][model3_track2_gif]
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_4/model3_track2.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 [Youtube track 2](https://youtu.be/IRmzAbo1C2E?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
 ## Discussion 
