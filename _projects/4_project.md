@@ -329,12 +329,12 @@ There are two generators in this project. **Training generator** is to generate 
 
 [Youtube track 1](https://youtu.be/iyrtscvcQV8?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_4/model3_track2.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 [Youtube track 2](https://youtu.be/IRmzAbo1C2E?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
 ## Discussion 
