@@ -213,10 +213,10 @@ Structure summary of above three models implemented with Keras:
 |-------------------------|-------------------------|
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model1_detail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model1_detail.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -225,10 +225,10 @@ Structure summary of above three models implemented with Keras:
 |-------------------------|-------------------------|
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model2_detail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model2_detail.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -237,10 +237,10 @@ Structure summary of above three models implemented with Keras:
 |-------------------------|-------------------------|
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model3_detail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model3_detail.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -307,12 +307,12 @@ There are two generators in this project. **Training generator** is to generate 
 
 [Youtube track 1](https://youtu.be/is49elVxbgc?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_4/model1_track2.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 [Youtube track 2](https://youtu.be/GGblJz5YFFM?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
 ### 2. Comma.ai Model
@@ -323,9 +323,10 @@ There are two generators in this project. **Training generator** is to generate 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_4/model1_track1model3_track1.gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_4/model3_track1.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 [Youtube track 1](https://youtu.be/iyrtscvcQV8?list=PLQefmzG-uoN76per1Sdg7212nH9LSKpi3)
 
 
