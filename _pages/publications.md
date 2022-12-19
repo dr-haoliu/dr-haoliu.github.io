@@ -10,7 +10,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-Note: JBI and JAMIA are leading health informatics journals with impact factors 8.000 and 7.942.
+Note: JBI and JAMIA are leading health informatics journals with impact factors 8.000 and 7.942.\
+AMIA (American Medical Informatics Association) is one of the top conferences in biomedical and health informatics.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
