@@ -23,7 +23,7 @@ I am a Postdoc Research Scientist in the Department of Biomedical Informatics at
 My work seeks to leverage innovations in artificial intelligence methods into knowledge discovery, representation, and computation from biomedical/clinical literature and Electronic Health Records(EHRs). 
 My research interests include clinical informatics, natural language processing, machine learning, data mining, knowledge representation, ontology engineering.
 
-I received my Ph.D. degree in Computer Science from New Jersey Institute of Technology (NJIT), co-advised by Yehoshua Perl and James Geller. My PhD research focused on developing machine learning algorithms for biomedical ontology engineering, mainly focused on ontology enrichment and quality assurance. 
+I received my Ph.D. degree in Computer Science from New Jersey Institute of Technology (NJIT), co-advised by Dr. Yehoshua Perl and Dr. James Geller. My PhD research focused on developing machine learning algorithms for biomedical ontology engineering, mainly focused on ontology enrichment and quality assurance. 
 I am also passionate about applying machine/deep learning methods in clinical research.
 
 Before I joined NJIT, I graduated with an M.S. in Electrical Engineering from Columbia University, NY. I received my B.S in Electrical & Computer Engineering from New York Institute of Technology, NY.
