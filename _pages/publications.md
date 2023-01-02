@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
 
 Note: <b>JBI</b> and <b>JAMIA</b> are leading health informatics journals with impact factors <b>8.000</b> and <b>7.942</b> (2022). <br>
-AMIA (American Medical Informatics Association) is one of the top conferences in biomedical and health informatics.
+<b>AMIA</b> (American Medical Informatics Association) is one of the top conferences in biomedical and health informatics.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
