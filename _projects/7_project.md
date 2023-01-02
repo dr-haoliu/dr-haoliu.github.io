@@ -3,8 +3,8 @@ layout: page
 title: Concept placement using BERT for biomedical ontology
 description: we propose a method to automatically predict the presence of IS-A relationships between a new concept and pre-existing concepts based on the language representation model BERT.
 img: assets/img/project_7/graph_abstract.jpg
-importance: 4
-category: work
+importance: 1
+category: personal
 ---
 
 The paper of this project is available <a href="https://www.sciencedirect.com/science/article/pii/S1532046420302355">here</a>.
