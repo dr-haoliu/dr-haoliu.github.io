@@ -116,6 +116,11 @@
         - BMC Medical Informatics and Decision Making
         - Clinical and Experimental Medicine
         - Scientific Reports
+    - title: Reviewer for conferences
+      items:
+        - American Medical Informatics Association Annual Symposium (AMIA'19, '20, '21, '22)
+        - American Medical Informatics Association Informatics Summit (AMIA'21, '22, '23)
+        - The IEEE International Conference on Bioinformatics and Biomedicine (BIBM'21)
 
 - title: Academic Interests
   type: nested_list
@@ -134,4 +139,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies</u>: Hiking, Swimming, Golf, etc.
+    - <b> Hobbies:</b> Hiking, Swimming, Golf, etc.
