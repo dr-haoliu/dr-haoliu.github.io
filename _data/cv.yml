@@ -79,7 +79,7 @@
     - year: April, 2022
       items: 
         - LitCoin Natural Language Processing (NLP) Challenge
-        - '<a herf="https://ncats.nih.gov/funding/challenges/litcoin#winners"> Honorable Mention </a>'
+        - '<a herf="https://ncats.nih.gov/funding/challenges/litcoin#winners"> <u>Honorable Mention</u> </a>'
     - year: 2021-2022
       items:
         - 'Google Cloud Credit Grant: "A knowledge base for Clinical Trials"  $5,000'
@@ -97,14 +97,14 @@
     - title: Invited talks and university presentations}
       items:
       - Seminar talk in the College of Engineering & Computing Sciences at <b>New York Institute of Technology}</b>, “NLP-based knowledge sharing and evidence retrieval of clinical studies”, March 29, 2022.
-      - '<a href="https://bionlplab.github.io/2022_Spring_NLP_in_Health/"> Guest lecture for HINF 5016: Natural Language Processing in Health </a> at <b>Weill Cornell Medicine</b>, “NLP-based quality assurance of ontologies and knowledge sharing of clinical trials”, March 9, 2022.'
+      - '<a href="https://bionlplab.github.io/2022_Spring_NLP_in_Health/">Guest lecture for HINF 5016: Natural Language Processing in Health</a> at <b>Weill Cornell Medicine</b>, “NLP-based quality assurance of ontologies and knowledge sharing of clinical trials”, March 9, 2022.'
 
 - title: Professional Activities
   type: nested_list
   contents:
     - title: Scientific Program Committee
       items:
-        - <a href="https://sites.google.com/manhattan.edu/bibm2021?pli=1">The 3rd International Workshop on Quality Assurance and Enrichment of Biological and Biomedical Ontologies and Terminologies</a>
+        - <a href="https://sites.google.com/manhattan.edu/bibm2021?pli=1"><u>The 3rd International Workshop on Quality Assurance and Enrichment of Biological and Biomedical Ontologies and Terminologies</u></a>
         - <i>IEEE International Conference on Bioinformatics and Biomedicine (BIBM'2021)</i>
     - title: Reviewer for journals
       items:
