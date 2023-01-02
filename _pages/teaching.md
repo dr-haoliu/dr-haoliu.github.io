@@ -30,6 +30,68 @@ nav_order: 5
 
 </div>
 
+<h3 class="mt-4">New York Institute of Technology</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Data Science</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            DTCS 115
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2020: Lecturer</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Undergraduate level online introduction to Data Science course.</li>
+      <li class="list-group-item">○ I developed the online course materials and lectured the course.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Data Mining</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            CSCI 415
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2020: Lecturer</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Undergraduate level introduction to Data mining course.</li>
+      <li class="list-group-item">○ I lectured the class and created & graded homeworks and exams.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Big Data Analytics</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
+            CSCI 636
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2019: Lecturer</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Graduate level course for big data analytics and visualization.</li>
+      <li class="list-group-item">○ I lectured the class and created & graded homeworks and exams.</li>
+    </ul>
+  </div>
+</div>
+
 <h3 class="mt-4">New Jersey Institute of Technology</h3>
 
 <div class="card mt-3">
@@ -132,28 +194,6 @@ nav_order: 5
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">○ Undergraduate and graduate level introduction to Database System course.</li>
       <li class="list-group-item">○ I lectured lab classes and mentored students working on class projects, graded homeworks and exams.</li>
-    </ul>
-  </div>
-</div>
-
-<h3 class="mt-4">New York Institute of Technology</h3>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Data Mining</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
-            CSCI 657
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2011: Teaching assistant</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Undergraduate level introduction to Data mining course.</li>
-      <li class="list-group-item">○ I led the recitation class and graded homeworks.</li>
     </ul>
   </div>
 </div>
