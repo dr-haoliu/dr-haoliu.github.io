@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Concept placement using BERT trained by transforming and
-              summarizing biomedical ontology structure
+title: Concept placement using BERT for biomedical ontology
 description: we propose a method to automatically predict the presence of IS-A relationships between a new concept and pre-existing concepts based on the language representation model BERT.
 img: assets/img/project_7/graph_abstract.jpg
 importance: 4
@@ -20,7 +19,7 @@ Note that here we are still in the scope of pre-training. We do not bind our mod
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_7/figure1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_7/figure1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
