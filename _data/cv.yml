@@ -34,15 +34,23 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Teacher and course co-organizer
-      institution: Columbia University
+    - title: Teacher and seminar organizer
+      institution: Columbia University, New York, US
       year: Spring 2021
       description:
         - G4099 Biomedical Informatics seminar
 
+    - title: Adjunct Professor
+      institution: New York Institute of Technology, New York, US
+      year: 2019-2020
+      description:
+        - DTSC 115 - Intro to Data Science	| Spring 2020	| Online course development and lecturer
+        - CSCI 415 - Intro to Data Mining | Spring 2020  |	Lecturer
+        - CSCI 636 - Big Data Analytics | Spring 2019	| Lecturer
+
     - title: Teaching Assistant & Instructor
       institution: New Jersey Institute of Technology, New Jersey, US
-      year: 2016-2020
+      year: 2015-2018
       description:
         - CS 115 - Intro to C++	| Spring 2018	| Lab instructor
         - CS 106 - Intro to Python | Fall 2017 & Fall 2015  |	Lab instructor
@@ -52,7 +60,7 @@
 
     - title: Junior Engineer
       institution: Alcatel-Lucent Shanghai Bell, Shanghai
-      year: 2014-2015
+      year: 2013-2015
 
 
 - title: Open Source Projects
@@ -74,6 +82,21 @@
     - year: 2021-2022
       items:
         - 'Google Cloud Credit Grant: "A knowledge base for Clinical Trials"  $5,000'
+
+- title: Presentations
+  type: nested_list
+  contents:
+    - title: Conference and workshop presentations
+      items:
+      - AMIA Joint Summits (2021), "A Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model", Mar. 2021.
+      - AMIA Annual Symposium (2019), "Transfer Learning from BERT to Support Insertion of New Concepts into SNOMED CT", Nov. 2019.
+      - AMIA Annual Symposium (2018), "Using Convolutional Neural Networks to Support Insertion of New Concepts into SNOMED CT", Nov. 2018.
+      - International Conference on Biological Ontology (2018), "Can a convolutional neural network support auditing of nci thesaurus neoplasm concepts?", Aug. 2018.
+
+    - title: Invited talks and university presentations}
+      items:
+      - Seminar talk in the College of Engineering & Computing Sciences at <b>New York Institute of Technology}</b>, “NLP-based knowledge sharing and evidence retrieval of clinical studies”, March 29, 2022.
+      - '<a href="https://bionlplab.github.io/2022_Spring_NLP_in_Health/"> Guest lecture for HINF 5016: Natural Language Processing in Health </a> at <b>Weill Cornell Medicine</b>, “NLP-based quality assurance of ontologies and knowledge sharing of clinical trials”, March 9, 2022.'
 
 - title: Professional Activities
   type: nested_list
@@ -110,4 +133,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Golf, Swimming, Hiking, etc.
+    - <u>Hobbies</u>: Hiking, Swimming, Golf, etc.

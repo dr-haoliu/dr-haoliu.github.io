@@ -19,8 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Postdoc Research Scientist in the Department of Biomedical Informatics at Columbia University in New York.
+I am currently looking for faculty positions in fields of Computers Science and Biomedical Informatics. 
 
-My work seeks to leverage innovations in artificial intelligence methods into knowledge discovery, representation, and computation from biomedical/clinical literature and Electronic Health Records(EHRs). 
+My work seeks to leverage innovations in artificial intelligence into knowledge discovery, representation, and computation from biomedical/clinical literature and Electronic Health Records(EHRs). 
 My research interests include clinical informatics, natural language processing, machine learning, data mining, knowledge representation, ontology engineering.
 
 I received my Ph.D. degree in Computer Science from New Jersey Institute of Technology (NJIT), co-advised by Dr. Yehoshua Perl and Dr. James Geller. My PhD research focused on developing machine learning algorithms for biomedical ontology engineering, mainly focused on ontology enrichment and quality assurance. 
