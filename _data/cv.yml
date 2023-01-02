@@ -15,7 +15,7 @@
       institution: New Jersey Institute of Technology, Newark, NJ, USA
       year: 2015 - 2020
       description:
-        - Co-advised by Dr. Yehoshua Perl and Dr. James Geller
+        - Co-advised by <b>Dr. Yehoshua Perl</b> and <b>Dr. James Geller</b>
         - 'GPA: 4.0 (4.0 scale)'
         - title: Dissertation
           contents:
@@ -96,14 +96,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Clinical Informatics.
-      items: 
-        - Clinical Knowledge Discovery.
-        - Clinical Evidence Mining and Appraisal
-    - title: Ontology Engineering.
+    - title: Clinical Informatics
       items:
-        - Ontology Enrichment.
-        - Ontology Quality Assurance.
+        - Clinical Natural Language Processing (methods and applications)
+        - Clinical Knowledge Discovery
+        - Clinical Evidence Mining and Appraisal
+        - Scalable and accurate Deep Learning predictive model with Electronic Health Records (EHR)
+    - title: Ontology Engineering
+      items:
+        - Ontology Enrichment
+        - Ontology Quality Assurance
 
 - title: Other Interests
   type: list
