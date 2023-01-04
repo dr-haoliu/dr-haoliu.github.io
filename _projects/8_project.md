@@ -16,8 +16,6 @@ Existing cohort development and validation methods can characterize cohorts meet
 ## What This Paper Adds 
 This work contributes a model called OPTEC (OPTimal Eligibility Criteria) that automatically identifies the optimal clinical study eligibility criteria for a given medical condition with the best tradeoff among feasibility, patient safety, and cohort diversity. We showed that our model could effectively and efficiently optimize eligibility criteria according to user-specified prioritization preferences and generate recommendations based on the top-ranked criteria combination. We also implemented a criteria recommendation system based on OPTEC. It was helpful in recommending feasible candidate eligibility criteria sets and providing actionable knowledge to guide clinical study designers to construct a feasible, safe, and diverse cohort definition during early study design.
 
- 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_8/Graphical_Abstract.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
