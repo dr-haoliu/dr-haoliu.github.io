@@ -82,7 +82,8 @@
         - '<a href="https://ncats.nih.gov/funding/challenges/litcoin#winners"><u>Honorable Mention</u></a>'
     - year: 2021-2022
       items:
-        - 'Google Cloud Credit Grant: "A knowledge base for Clinical Trials"  $5,000'
+        - 'Google Cloud Credit Grant: "A knowledge base for Clinical Trials"'
+        - $5,000
 
 - title: Presentations
   type: nested_list
