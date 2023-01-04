@@ -28,19 +28,25 @@ This work contributes a model called OPTEC (OPTimal Eligibility Criteria) that a
 </div>
 
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_8/figure1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+</div>
+<div class="caption">
+    2-iteration demonstration of the criteria recommendation system. This figure depicts the interaction between a user and the system.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_8/figure2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <li>Left: 2-iteration demonstration of the criteria recommendation system. This figure depicts the interaction between a user and the system. </li>
-    <li>Right: Clinical study designer’s interaction with the criteria recommendation system.</li>
+    Clinical study designer’s interaction with the criteria recommendation system.
 </div>
+
+OPTEC model allows flexible attribute configuration and weight settings and an adjustable number of criteria for recommendation and new criteria in the recommended combination per time. It provides flexibility in attribute configurations and applicability in any medical condition or criteria.
 
 
 
