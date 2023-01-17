@@ -23,7 +23,7 @@ I am currently looking for faculty positions in fields of Computers Science and 
 
 My work seeks to leverage innovations in artificial intelligence into knowledge discovery, representation, and computation from biomedical/clinical literature and Electronic Health Records(EHRs). 
 My research interests include clinical informatics, natural language processing, machine learning, data mining, knowledge representation, and ontology engineering.
-I am passionate about applying machine/deep learning methods in clinical/biomedical research.
+I am passionate about AI in Healthcare research.
 
 I received my Ph.D. degree in Computer Science from New Jersey Institute of Technology (NJIT), co-advised by <a href="https://people.njit.edu/faculty/perl"><b>Dr. Yehoshua Perl</b></a> and <a href="https://web.njit.edu/~geller/"><b>Dr. James Geller</b></a>. My PhD research focused on developing machine learning algorithms for biomedical ontology engineering, mainly focused on ontology enrichment and quality assurance.
 I graduated with a M.S. degree in Electrical Engineering from Columbia University, NY. I have a B.S. degree in Electrical & Computer Engineering from New York Institute of Technology, NY.
