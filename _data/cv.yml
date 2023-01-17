@@ -15,7 +15,7 @@
       institution: New Jersey Institute of Technology, Newark, NJ, USA
       year: 2015 - 2020
       description:
-        - title: Computer Science
+        - <b> Computer Science </b> 
         - Co-advised by <b>Dr. Yehoshua Perl</b> and <b>Dr. James Geller</b>
         - 'GPA: 4.0 (4.0 scale)'
         - title: Dissertation
@@ -25,13 +25,13 @@
       institution: Columbia University, New York, USA
       year: 2011 - 2012
       description:
-        - title: Electrical Engineering
+        - <b> Electrical Engineering </b>
 
     - title: Bachelor of Science
       institution: New York Institute of Technology, New York, USA
       year: 2017 - 2011
       description:
-        - title: Electrical and Computer Engineering
+        - <b> Electrical and Computer Engineering <b>
         - Graduated with President's list
 
 
