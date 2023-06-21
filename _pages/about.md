@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently looking for faculty positions in fields of Computers Science and Biomedical Informatics. 
-
 My work seeks to leverage innovations in artificial intelligence into knowledge discovery, representation, and computation from biomedical/clinical literature and Electronic Health Records(EHRs). 
 My research interests include clinical informatics, natural language processing, machine learning, data mining, knowledge representation, and ontology engineering.
 I am passionate about AI in Healthcare research.
