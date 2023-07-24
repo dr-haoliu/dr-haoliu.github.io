@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.dbmi.columbia.edu/postdocs-fellows/'>Department of Biomedical Informatics</a>. Columbia University.
+subtitle: Incoming Assistant Professor
+  School of Computing 
+  Montclair State University
 
 profile:
   align: right
