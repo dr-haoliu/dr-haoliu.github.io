@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor  
-  School of Computing  
-  Montclair State University
+subtitle: Incoming Assistant Professor<br>School of Computing<br>Montclair State University
 
 profile:
   align: right
