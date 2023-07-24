@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor<br>School of Computing<br>Montclair State University
+subtitle: <b>Incoming Assistant Professor</b><br><b>School of Computing</b><br><b>Montclair State University</b>
 
 profile:
   align: right
