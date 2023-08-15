@@ -4,7 +4,7 @@
     - name: Full Name
       value: Hao Liu
     - name: Contact
-      value: hl2659 [at] columbia [dot] edu
+      value: liuha [at] montclair [dot] edu
     - name: Languages
       value: English, Chinese
 
@@ -15,7 +15,7 @@
       institution: New Jersey Institute of Technology, Newark, NJ, USA
       year: 2015 - 2020
       description:
-        - <b> Computer Science </b> 
+        - <b> Computer Science </b>
         - Co-advised by <b>Dr. Yehoshua Perl</b> and <b>Dr. James Geller</b>
         - 'GPA: 4.0 (4.0 scale)'
         - title: Dissertation
@@ -81,7 +81,7 @@
   type: time_table
   contents:
     - year: April, 2022
-      items: 
+      items:
         - LitCoin Natural Language Processing (NLP) Challenge
         - '<a href="https://ncats.nih.gov/funding/challenges/litcoin#winners"><u>Honorable Mention</u></a>'
     - year: 2021-2022
