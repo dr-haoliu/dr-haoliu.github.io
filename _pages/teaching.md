@@ -8,6 +8,30 @@ nav_order: 5
 ---
 <div class="cv">
 
+<h3 class="mt-4">Montclair State University</h3>
+
+<div class="card mt-3 p-3">
+
+<div class="row">
+  <div class="col-sm-10">
+    <h5 class="font-weight-bold">Database Systems</h5>
+  </div>
+  <div class="col-sm-2 text-left text-sm-right">
+    <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+        CSIT 355 
+    </span>
+  </div>
+</div>
+<h6 class="font-italic mt-2 mt-sm-0">Fall 2023: Lecturer </h6>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  <li class="list-group-item">○ Course for undergraduate students </li>
+  <li class="list-group-item">○ Fundamentals of designing, querying, and managing databases. Topics covered including relational model, relational algebra, the Standard Query Language (SQL), database design theory, database application development, and database security.</li>
+</ul>
+
+</div>
+
+
+
 <h3 class="mt-4">Columbia University</h3>
 
 <div class="card mt-3 p-3">
