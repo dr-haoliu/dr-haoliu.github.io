@@ -30,6 +30,26 @@ nav_order: 5
 
 </div>
 
+<div class="card mt-3 p-3">
+
+<div class="row">
+  <div class="col-sm-10">
+    <h5 class="font-weight-bold">Fundamentals of Java Programming</h5>
+  </div>
+  <div class="col-sm-2 text-left text-sm-right">
+    <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+        CSIT 111
+    </span>
+  </div>
+</div>
+<h6 class="font-italic mt-2 mt-sm-0">Fall 2023: Lecturer </h6>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  <li class="list-group-item">○ Undergraduate level introduction to Java programming course. </li>
+  <li class="list-group-item">○ Fundamental syntax and semantics of the JAVA programming language. Topics covered include primitive data types, class and objects, conditionals and loops, arrays and object-oriented program design.</li>
+</ul>
+
+</div>
+
 
 
 <h3 class="mt-4">Columbia University</h3>
