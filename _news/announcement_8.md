@@ -5,7 +5,7 @@ date: 2023-01-11 16:11:00-0400
 inline: false
 ---
 
-I will serve as a program committee of IEEE ICHI'2023 (The Eleventh IEEE International Conference on Healthcare Informatics). 
+I will serve on the program committee of IEEE ICHI'2023 (The Eleventh IEEE International Conference on Healthcare Informatics). 
 
 IEEE ICHI 2023: The Eleventh IEEE International Conference on Healthcare Informatics  
 Houston, TX, United States, June 10-13, 2023  
