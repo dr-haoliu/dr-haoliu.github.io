@@ -7,7 +7,7 @@ inline: false
 
 I will serve on the program committee of IEEE ICHI'2024 (The 12th IEEE International Conference on Healthcare Informatics). 
 
-IEEE ICHI 2024: The Eleventh IEEE International Conference on Healthcare Informatics  
+IEEE ICHI 2024: The 12th IEEE International Conference on Healthcare Informatics  
 Orlando, Florida, USA
 June 3rd-6th, 2024   
 Conference website: 	https://ieeeichi2024.github.io/  
