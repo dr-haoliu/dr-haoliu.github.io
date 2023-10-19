@@ -17,7 +17,6 @@
       description:
         - <b> Computer Science </b>
         - Co-advised by <b>Dr. Yehoshua Perl</b> and <b>Dr. James Geller</b>
-        - 'GPA: 4.0 (4.0 scale)'
         - title: Dissertation
           contents:
             - <a href="https://digitalcommons.njit.edu/dissertations/1480/">Enrichment of ontologies using machine learning and summarization</a>
