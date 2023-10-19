@@ -1,11 +1,11 @@
 ---
 layout: post
-title: I will serve on the program committee of IEEE ICHI'2024 (The Eleventh IEEE International Conference on Healthcare Informatics).  
+title: I will serve on the program committee of IEEE ICHI'2024 (The 12th IEEE International Conference on Healthcare Informatics).  
 date: 2023-10-13 16:11:00-0400
 inline: false
 ---
 
-I will serve on the program committee of IEEE ICHI'2024 (The Eleventh IEEE International Conference on Healthcare Informatics). 
+I will serve on the program committee of IEEE ICHI'2024 (The 12th IEEE International Conference on Healthcare Informatics). 
 
 IEEE ICHI 2024: The Eleventh IEEE International Conference on Healthcare Informatics  
 Orlando, Florida, USA
