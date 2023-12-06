@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper is accepted to HEALTHINF 2024. 
+title: Our paper was accepted to HEALTHINF 2024! 
 date: 2023-12-5 16:11:00-0400
 inline: false
 ---

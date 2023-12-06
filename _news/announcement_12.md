@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper was accepted to AIBH@IEEE BIBM2023. 
+title: Our paper was accepted to AIBH@IEEE BIBM2023! 
 date: 2023-11-10 16:11:00-0400
 inline: false
 ---
