@@ -16,3 +16,7 @@
 "JAMIAO":
   url: https://academic.oup.com/jamiaopen
   color: "#4dd3c0"
+
+"SciData":
+  url: https://www.nature.com/sdata/
+  color: "#9f6900"
