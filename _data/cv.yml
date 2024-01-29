@@ -70,10 +70,10 @@
   type: time_table
   contents:
     - title: <a href="http://ctkb.io/">Clinical Trial Knowledge Base</a>
-      year: 2020-now
+      year: 2020-2022
       description: A knowledge base of discrete clinical trial eligibility criteria equipped with a web-based user interface for querying and aggregate analysis of common eligibility criteria.
     - title: '<a href="http://cliver.chunhualab.org/"> CliVER: Scientific claim verification </a>'
-      year: 2021-now
+      year: 2021-2023
       description: A pipeline that automate clinical evidence extraction and separate support and refute rationale for a specific scientific claim, from over 500,000 completed randomized controlled trials from 1990 to 2022.
 
 - title: Honors and Awards
