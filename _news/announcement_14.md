@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper was accepted to ICHI 2024! 
+title: Our paper was accepted to IEEE ICHI 2024! 
 date: 2024-03-14 16:48:00-0400
 inline: false
 ---
