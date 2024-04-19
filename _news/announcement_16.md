@@ -38,11 +38,7 @@ Please join us in congratulating Team Machine Minds!
 </div>
 
 You can watch the presentation on Youtube.
-<div class="row">
-    <div class="col-12">
-        {% include figure.video path="https://www.youtube.com/embed/BcbmCua_YW0" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+[![Click here to watch](https://i9.ytimg.com/vi_webp/BcbmCua_YW0/mq1.webp?sqp=CLDJi7EG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEkgYyhlMA8=&rs=AOn4CLAcfjdvPezPtoszLab1rfegHsinBA)](https://www.youtube.com/embed/BcbmCua_YW0)
 
 Happy to share this announcement with all of you! 
 
