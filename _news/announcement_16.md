@@ -38,8 +38,9 @@ Please join us in congratulating Team Machine Minds!
 You can watch the presentation on Youtube.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe height="100%" width="100%" src="https://www.youtube.com/embed/BcbmCua_YW0" title="Does News Media Spread Fear of AI?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="100%" src="https://www.youtube.com/embed/BcbmCua_YW0" title="Does News Media Spread Fear of AI?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
+
 Happy to share this announcement with all of you! 
 
