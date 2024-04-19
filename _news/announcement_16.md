@@ -30,7 +30,7 @@ Please join us in congratulating Team Machine Minds!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/TeamMachineMindsRutgers.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/TeamMachineMindsRutgers.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +40,7 @@ Please join us in congratulating Team Machine Minds!
 You can watch the presentation on Youtube.
 <div class="row">
     <div class="col-12">
-        {% include video.liquid path="https://www.youtube.com/embed/BcbmCua_YW0" class="img-fluid rounded z-depth-1" %}
+        {% include figure.video path="https://www.youtube.com/embed/BcbmCua_YW0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
