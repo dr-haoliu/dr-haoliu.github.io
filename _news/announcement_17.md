@@ -16,7 +16,7 @@ This program aims to benefit scholars through supporting the development of thei
 - Venue: Montclair State University
 - Topic: Leverage Open Language Models for Improving Healthcare Predictive Analytics
 - Duration: May 15 to Dec 15, 2024
-- Stipend: $5000 
+- Stipend: $5,000 
 
 ----------------------------------
 

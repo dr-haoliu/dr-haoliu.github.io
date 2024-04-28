@@ -18,7 +18,7 @@ We are delighted to announce that our students Isabele, Anand, Ramy and Ola of T
 - Participants: Accredited US institutions 
 - Duration: Feb 15 to Apr 19, 2024
 - Track: Graduate Students
-- Cash Prize: $1000 per winning team student (total $4000)
+- Cash Prize: $1,000 per winning team student (total $4,000)
 
 ----------------------------------
 
