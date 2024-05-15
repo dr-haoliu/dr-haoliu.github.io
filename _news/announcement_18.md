@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I will serve on the Graduate Council of Montclair State University for AY24-25
+title: I will serve on the Graduate Council of Montclair State University for AY24-25!
 date: 2024-05-15 16:11:00-0400
 inline: false
 ---
