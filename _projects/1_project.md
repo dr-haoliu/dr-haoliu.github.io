@@ -24,8 +24,6 @@ Our system is comprised of a user-configured module called Category Design and a
 The source code of this project is available at
 https://github.com/dr-haoliu/ontology-based-clinical-study-categorization
 
-The demo is available is at:  http://cliver.chunhualab.org:8090/
-
 - **Objective** The free-text Condition data field in the ClinicalTrials.gov is not amenable to computational processes for retrieving, aggregating and visualizing clinical studies by condition categories. This paper contributes a method for automated ontology-based categorization of clinical studies by their conditions. 
 
 - **Materials and Methods** Our method first maps text entries in ClinicalTrials.gov’s Condition field to standard condition concepts in the OMOP Common Data Model by using SNOMED CT as a reference ontology and using Usagi for concept normalization, followed by hierarchical traversal of the SNOMED ontology for concept expansion, ontology-driven condition categorization, and visualization. We compared the accuracy of this method to that of the MeSH-based method. 
