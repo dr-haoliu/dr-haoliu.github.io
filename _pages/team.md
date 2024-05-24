@@ -12,13 +12,13 @@ nav_order: 6
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="assets/img/project_1/Graph_Abstract.jpg" class="card-img img-fluid" alt="Andres Campoverde, MS">
+                <img src="assets/img/profile/AndresCampoverde.jpg" class="card-img img-fluid" alt="Andres Campoverde, MS">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
                      <a href="https://engineering.jhu.edu/faculty/tza-huei-jeff-wang/" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Andres Campoverde, MS</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Professor of Mechanical and Biomedical Engineering</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Computer Science</h6>
                     <p class="card-text">
                         Andres Campoverde is currently enrolled in the Master of Computer Science program at Montclair State University. 
                         He is interested in nature language processing and machine learning.
