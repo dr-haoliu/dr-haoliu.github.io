@@ -12,7 +12,7 @@ nav_order: 6
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="assets/img/profile/AndresCampoverde.png" class="card-img img-fluid" alt="Andres Campoverde, MS">
+                <img src="../assets/img/profile/AndresCampoverde.png" class="card-img img-fluid" alt="Andres Campoverde, MS">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
@@ -42,7 +42,7 @@ nav_order: 6
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="assets/img/profile/ShibbirAhmed.png" class="card-img img-fluid" alt="Shibbir Ahmed Arif, MS">
+                <img src="../assets/img/profile/ShibbirAhmed.png" class="card-img img-fluid" alt="Shibbir Ahmed Arif, MS">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
@@ -72,7 +72,7 @@ nav_order: 6
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="assets/img/profile/RachelRubio.png" class="card-img img-fluid" alt="Rachel Rubio, BS">
+                <img src="../assets/img/profile/RachelRubio.png" class="card-img img-fluid" alt="Rachel Rubio, BS">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
