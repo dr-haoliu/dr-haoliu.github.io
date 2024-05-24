@@ -21,7 +21,9 @@ nav_order: 6
                     <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Computer Science</h6>
                     <p class="card-text">
                         Andres Campoverde is currently enrolled in the Master of Computer Science program at Montclair State University. 
-                        He is interested in nature language processing and machine learning.
+                        He is Highly motivated MSc. Computer Science student at Montclair State University with 4+ years of software engineering experience. 
+                        Leverage expertise in distributed computing, cloud computing, and machine learning to develop high-quality and performant backend code (Go, Python, Typescript, Scala, Java) throughout the software development lifecycle (backend, mobile, frontend). 
+                        Proven ability to learn quickly, work effectively in teams, and communicate clearly.
                     </p>
                     </a>
                         <a href="mailto:campoverdea4@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
