@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: Team
-description: I have real previledge to supervise a group of student researchers to carry out various clinical and biomedical informatics studies. Here are the members affiliated with my research group.
+description: I have a real privilege to supervise a group of student researchers to carry out various clinical and biomedical informatics studies. Here are the members affiliated with my research group.
 nav: true
 nav_order: 6
 ---
