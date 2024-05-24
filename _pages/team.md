@@ -52,13 +52,16 @@ nav_order: 6
                     <h5 class="card-title"> Shibbir Ahmed Arif, MS</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
                     <p class="card-text">
-                        Shibbir Ahmed Arif is a graduate student in the Data Science program. While pursuing his masters, he is also working as a Graduate Teaching Assistant at the School of Computing. Besides, he is involved in faculty-led research as a research assistant within the school of computing, particularly in the realm of Natural Language Processing. His research interests include Artificial Intelligence, Natural Language Processing and Health Informatics. On top of that, he likes learning latest AI technologies and collaborative work.
+                        Shibbir Ahmed Arif is currently enrolled in the Master of Data Science program at Montclair State University. 
+                        Besides, he is working as a graduate teaching assistant at the School of Computing. 
+                        He is also involved in the cutting-edge research in natural language processing (NLP) with 2+ years of experience in data science and machine learning using Python. 
+                        His research interests include artificial intelligence, NLP, and health informatics.                    
                     </p>
                     </a>
                         <a href="mailto:arifs1@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
                         <a href="tel:+1%20914%20882%206658" class="card-link"><i class="fas fa-phone"></i></a>
-                        <a href="https://orcid.org/0000-0001-1234-1234" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
-                        <a href="https://twitter.com/xxx" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                        <a href="https://orcid.org/0009-0009-2379-1208" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
+                        <a href="https://x.com/Shibbir888" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
                         <a href="https://www.linkedin.com/in/ShibbirAhmedArif/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
