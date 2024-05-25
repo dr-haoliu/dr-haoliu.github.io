@@ -28,8 +28,6 @@ nav_order: 6
                     </a>
                         <a href="mailto:campoverdea4@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
                         <a href="tel:+1%20551%20375%209511" class="card-link"><i class="fas fa-phone"></i></a>
-                        <a href="https://orcid.org/0000-0001-1234-1234" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
-                        <a href="https://twitter.com/xxx" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
                         <a href="https://linkedin.com/in/wilson-andres-campoverde" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
@@ -72,6 +70,37 @@ nav_order: 6
         </div>
 </div>
 
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="../assets/img/profile/AnandGopeekrishnan.png" class="card-img img-fluid" alt="Anand Gopeekrishnan, MS">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                     <a href="https://www.linkedin.com/in/anand-gopeekrishnan/" target="_blank" rel="noopener noreferrer">
+                    <h5 class="card-title"> Anand Gopeekrishnan, MS</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">MS in Data Science</h6>
+                    <p class="card-text">
+                        Anand Gopeekrishnan is an experienced and accomplished Machine Learning Engineer with a robust background in Python, Machine Learning, Deep Learning, and Computer Vision. 
+                        He holds a master's degree in Computer Science with over 6 years of working experience. 
+                        His expertise includes working on technology projects involving LLMs such as BERT, RoBERTa, and XLM-Roberta, integrating OpenAI models, generating prompts, and utilizing Autogen agents. 
+                        He aim to work in a challenging environment to gain industrial experience and further develop AI technologies, where he can contribute to the advancement of AI.                    
+                    </p>
+                    </a>
+                        <a href="mailto:gopeekrishna1@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+                        <a href="tel:+1%20609%20598%205125" class="card-link"><i class="fas fa-phone"></i></a>
+                        <a href="https://orcid.org/0009-0009-1082-8462" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
+                        <a href="https://www.linkedin.com/in/anand-gopeekrishnan/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
+                        </small>
+                    </p>
+                </div>
+            </div>
+        </div>
+</div>
+
+
 
 <h3 class="mt-4">Undergraduate Students</h3>
 <div class="card hoverable">
@@ -91,8 +120,6 @@ nav_order: 6
                     </a>
                         <a href="mailto:rubior1@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
                         <a href="tel:+1%20732%20770%200656" class="card-link"><i class="fas fa-phone"></i></a>
-                        <a href="https://orcid.org/0000-0001-1234-1234" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i></a>
-                        <a href="https://twitter.com/xxx" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
                         <a href="https://www.linkedin.com/in/Rachel2025/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
