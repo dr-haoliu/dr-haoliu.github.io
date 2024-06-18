@@ -93,6 +93,7 @@
   contents:
     - title: Conference and workshop presentations
       items:
+      - IEEE ICHI (2024), "Using Generative Large Language Models for Hierarchical Relationship Prediction in Medical Ontologies", Jun. 2024.
       - AMIA Joint Summits (2021), "A Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model", Mar. 2021.
       - AMIA Annual Symposium (2019), "Transfer Learning from BERT to Support Insertion of New Concepts into SNOMED CT", Nov. 2019.
       - AMIA Annual Symposium (2018), "Using Convolutional Neural Networks to Support Insertion of New Concepts into SNOMED CT", Nov. 2018.
