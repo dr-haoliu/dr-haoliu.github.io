@@ -7,7 +7,9 @@ importance: 2
 category: work
 ---
 
-Paper URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10283113/
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10283113/">Paper URL</a>
+
 
 # Abstract
 This reproducibility study presents an algorithm to weigh in race distribution data of clinical research study samples when training biomedical embeddings. We extracted 12,864 PubMed abstracts published between January 1st, 2000 and January 1st, 2022 and weighed them based on the race distribution data extracted from their corresponding clinical trials registered on ClinicalTrials.gov. We trained Word2vec and BERT embeddings and evaluated their performance on predicting length of hospital stay (LHS) and intensive care unit (ICU) readmission using MIMIC-IV electronic health record data. We observed that models trained using race-sensitive embeddings do not consistently outperform the neutral embeddings ones when used for LHS prediction (with similar Mean Absolute Error 1.975 vs. 2.008) or ICU readmission prediction (with similar accuracy 74.61% vs. 75.17% and the same AUC 0.775), respectively. We conclude that demographic sensitive embeddings do not necessarily significantly improve the accuracy of health predictive models as previously reported in the literature.
