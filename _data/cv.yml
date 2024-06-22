@@ -93,6 +93,7 @@
   contents:
     - title: Conference and workshop presentations
       items:
+      - IEEE ICHI (2024), "Using Generative Large Language Models for Hierarchical Relationship Prediction in Medical Ontologies", Jun. 2024.
       - AMIA Joint Summits (2021), "A Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model", Mar. 2021.
       - AMIA Annual Symposium (2019), "Transfer Learning from BERT to Support Insertion of New Concepts into SNOMED CT", Nov. 2019.
       - AMIA Annual Symposium (2018), "Using Convolutional Neural Networks to Support Insertion of New Concepts into SNOMED CT", Nov. 2018.
@@ -113,6 +114,7 @@
         - American Medical Informatics Association (AMIA)
     - title: Scientific Program Committee
       items:
+        - International Conference of Artificial Intelligence in Medicine (AIME 2024)
         - The Eleventh IEEE International Conference on Healthcare Informatics (ICHI'2023, 2024)
         - <a href="https://sites.google.com/manhattan.edu/bibm2021?pli=1"><u>The 3rd International Workshop on Quality Assurance and Enrichment of Biological and Biomedical Ontologies and Terminologies</u></a>
         - IEEE International Conference on Bioinformatics and Biomedicine (BIBM'2021)
@@ -123,6 +125,7 @@
         - Journal of Biomedical Informatics (JBI)
         - Journal of the American Medical Informatics Association (JAMIA)
         - Journal of the American Medical Informatics Association Open (JAMIA Open)
+        - Journal of Medical Internet Research (JMIR)
         - Applied Clinical Informatics (ACI)
         - BMC Supplements
         - BMC Medical Informatics and Decision Making
@@ -134,6 +137,7 @@
         - Frontiers in Psychiatry
     - title: Reviewer for conferences
       items:
+        - International Conference of Artificial Intelligence in Medicine (AIME'24)
         - IMIA Yearbook of Medical Informatics (IMIA'24)
         - International Conference on Automation Science and Engineering (CASE'24)
         - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD'24)
