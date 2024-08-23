@@ -103,7 +103,7 @@ nav_order: 2
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="../assets/img/profile/AnandGopeekrishnan.png" class="card-img img-fluid" alt="Ernest Chianumba, MS">
+                <img src="../assets/img/profile/ErnestC.png" class="card-img img-fluid" alt="Ernest Chianumba, MS">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
