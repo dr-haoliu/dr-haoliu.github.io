@@ -100,6 +100,35 @@ nav_order: 2
         </div>
 </div>
 
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="../assets/img/profile/ErnestC.png" class="card-img img-fluid" alt="Ernest Chianumba, MS">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                     <a href="https://www.linkedin.com/in/ernest-chianumba" target="_blank" rel="noopener noreferrer">
+                    <h5 class="card-title"> Ernest Chianumba, MS</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">MS in Data Science</h6>
+                    <p class="card-text">
+                        Ernest Chianumba is currently enrolled in the Master of Data Science program at Montclair State University. 
+                        He has over 8 years of experience in data analysis and operations management, specializing in healthcare analytics and e-commerce. 
+                        Proficient in Python, SQL, and PowerBI, Ernest has contributed to research in healthcare predictive analytics, including currently working on a project funded by Bristol Myers Squibb, where he is utilizing NLP models to improve clinical predictions for underrepresented populations. 
+                        As a Data Analyst Intern at the Port Authority of NY&NJ, he developed interactive dashboards and reports to support key decision-making processes. Ernest is committed to advancing AI and data science technologies through innovative research and practical applications.                   
+                    </p>
+                    </a>
+                        <a href="mailto:chianumbae1@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+                        <a href="tel:+1%20973%20517%206484" class="card-link"><i class="fas fa-phone"></i></a>
+                        <a href="https://www.linkedin.com/in/ernest-chianumba" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
+                        </small>
+                    </p>
+                </div>
+            </div>
+        </div>
+</div>
+
 
 
 <h3 class="mt-4">Undergraduate Students</h3>
