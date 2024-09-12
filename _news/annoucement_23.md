@@ -2,7 +2,7 @@
 layout: post
 title: Happy to Kick Off the First Meeting of Data Science Lab for Fall 2024 Semester at Montclair State University!
 date: 2024-09-12 21:45:00-0400
-inline: true
+inline: false
 ---
 
 We are delighted to kick off the first meeting of Data Science Lab for Fall 2024 semester at Montclair State University! 
@@ -13,6 +13,7 @@ Students will work on projects that explore the intricate relationships within S
 The team will also delve into advanced medical image classification techniques, potentially revolutionizing diagnostic processes. 
 Furthermore, the lab plans to harness the power of knowledge graphs to enhance healthcare ontologies, and investigate innovative applications of Large Language Models (LLMs) in clinical trial patient matching.
 This blend of artificial intelligence, data analytics, and healthcare expertise positions Montclair State University at the forefront of data-driven medical research, with the potential to improve patient outcomes and streamline healthcare processes.
+------------------------
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
