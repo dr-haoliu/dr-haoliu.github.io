@@ -2,7 +2,7 @@
 layout: post
 title: Happy to Kick Off the First Meeting of Data Science Lab for Fall 2024 Semester at Montclair State University!
 date: 2024-09-12 21:45:00-0400
-inline: false
+inline: true
 ---
 
 We are delighted to kick off the first meeting of Data Science Lab for Fall 2024 semester at Montclair State University! 
