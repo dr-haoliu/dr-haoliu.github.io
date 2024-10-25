@@ -6,6 +6,7 @@ inline: true
 ---
 
 I am happy to share that my advisee, Shibbir Ahmed Arif, has been awarded a Student-Led Research, Scholarship, and Creative Activities (SL-RSCA) Grant for his innovative research project, "Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting."
+
 ------------------------
 
 - Students: Shibbir Ahmed Arif
