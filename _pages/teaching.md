@@ -84,7 +84,7 @@ nav_order: 5
     </span>
   </div>
 </div>
-<h6 class="font-italic mt-2 mt-sm-0">Spring, Fall 2024, Fall 2023: Lecturer </h6>
+<h6 class="font-italic mt-2 mt-sm-0">Spring, Fall 2024; Fall 2023: Lecturer </h6>
 <ul class="card-text font-weight-light list-group list-group-flush">
   <li class="list-group-item">○ Undergraduate level introduction to Database Systems course. </li>
   <li class="list-group-item">○ Fundamentals of designing, querying, and managing databases. Topics covered including relational model, relational algebra, the Standard Query Language (SQL), database design theory, database application development, and database security.</li>
