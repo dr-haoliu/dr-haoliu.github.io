@@ -10,6 +10,48 @@ nav_order: 5
 
 <h3 class="mt-4">Montclair State University</h3>
 
+
+<div class="card mt-3 p-3">
+
+<div class="row">
+  <div class="col-sm-10">
+    <h5 class="font-weight-bold">Database Systems</h5>
+  </div>
+  <div class="col-sm-2 text-left text-sm-right">
+    <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+        CSIT 555 
+    </span>
+  </div>
+</div>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2025: Lecturer </h6>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  <li class="list-group-item">○ Graduate level course for Database Systems. </li>
+  <li class="list-group-item">○ Fundamentals of designing, querying, and managing databases. Topics covered including relational model, relational algebra, the Standard Query Language (SQL), database design theory, database application development, and database security.</li>
+</ul>
+
+</div>
+
+
+<div class="card mt-3 p-3">
+
+<div class="row">
+  <div class="col-sm-10">
+    <h5 class="font-weight-bold">Data Visualization</h5>
+  </div>
+  <div class="col-sm-2 text-left text-sm-right">
+    <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+        CSIT 359 
+    </span>
+  </div>
+</div>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2025: Lecturer </h6>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  <li class="list-group-item">○ Undergraduate level course to Data Visualization. </li>
+  <li class="list-group-item">○ Understand the concepts and various phases of Data Science including data manipulating, processing, and visualization. Apply data science skills and design visualizations to solve problems with real-world data sets.</li>
+</ul>
+
+</div>
+
 <div class="card mt-3 p-3">
 
 <div class="row">
@@ -22,7 +64,7 @@ nav_order: 5
     </span>
   </div>
 </div>
-<h6 class="font-italic mt-2 mt-sm-0">Spring, Fall 2024: Lecturer </h6>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2025; Spring, Fall 2024: Lecturer </h6>
 <ul class="card-text font-weight-light list-group list-group-flush">
   <li class="list-group-item">○ Graduate level course to Data Analysis and Visualization. </li>
   <li class="list-group-item">○ Understand the concepts and various phases of Data Science including data manipulating, processing, and visualization. Apply data science skills and design visualizations to solve problems with real-world data sets.</li>
