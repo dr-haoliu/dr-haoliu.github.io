@@ -115,8 +115,8 @@
     - title: Scientific Program Committee
       items:
         - "IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE'24, '25)"
+        - The Eleventh IEEE International Conference on Healthcare Informatics (ICHI'23, '24, '25)
         - International Conference of Artificial Intelligence in Medicine (AIME'24)
-        - The Eleventh IEEE International Conference on Healthcare Informatics (ICHI'23, '24)
         - <a href="https://sites.google.com/manhattan.edu/bibm2021?pli=1"><u>The 3rd International Workshop on Quality Assurance and Enrichment of Biological and Biomedical Ontologies and Terminologies</u></a>
         - IEEE International Conference on Bioinformatics and Biomedicine (BIBM'21)
     - title: Reviewer for journals
@@ -137,8 +137,15 @@
         - Journal of Robotics
         - Journal of Biomedical Semantics
         - Frontiers in Psychiatry
+        - Smart Health
+        - PLOS ONE
+        - Journal of Healthcare Informatics Research
+        - npj Digital Medicine
+        - Journal of Big Data
     - title: Reviewer for conferences
       items:
+        - Medical and Health Informatics (MedInfo'25)
+        - AAAI'25 Workshop: Knowledge Graphs for Health Equity, Justice, and Social Services (AAAI'25)
         - Medical Informatics Europe (MIE'25)
         - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD'24)
         - International Conference on Data Mining (ICDM'24)
