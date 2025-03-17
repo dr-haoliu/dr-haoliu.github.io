@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper was accepted to MedInfo 2025!
+title: Our paper "LLM-Integrated Normalization and Knowledge for FHIR (LINK-FHIR)" was accepted to MedInfo 2025!
 date: 2025-03-10 17:34:00-0400
 inline: false
 ---
