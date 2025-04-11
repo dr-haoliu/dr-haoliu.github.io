@@ -19,6 +19,7 @@ Competition Details:
 - Participants: Accredited US Institutions 
 - Duration: February 15 to April 11, 2025 
 - Track: Graduate Students - Award: $1,000 per team member (total $5,000)
+
 -----------------------------------
 
 Our students demonstrated exceptional dedication and innovative thinking throughout this prestigious competition. As mentors, we are immensely proud of their hard work and intellectual contributions. 
