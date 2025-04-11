@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Our paper was accepted to MedInfo 2025!
+title: >- 
+  Our paper "EvidenceOutcomes: a Dataset of Clinical Trial Publications with Clinically Meaningful Outcomes" was accepted to MedInfo 2025!
 date: 2025-03-10 17:25:00-0400
 inline: false
 ---
