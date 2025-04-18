@@ -14,11 +14,14 @@ The winning team consists of:
 - Team Name: Next-Gen Tech Thinkers 
 
 Competition Details: 
-- Event: RAISE-2025 Student Data Science/Informatics Competition- Venue: Rutgers University, NJ, Bloustein School - Master of Public Informatics
+- Event: RAISE-2025 Student Data Science/Informatics Competition
+- Venue: Rutgers University, NJ, Bloustein School
+- Master of Public Informatics
 - Topic: "Our Future with AI: Utopian or Dystopian?" 
 - Participants: Accredited US Institutions 
 - Duration: February 15 to April 11, 2025 
-- Track: Graduate Students - Award: $1,000 per team member (total $5,000)
+- Track: Graduate Students 
+- Award: $1,000 per team member (total $5,000)
 
 -----------------------------------
 
