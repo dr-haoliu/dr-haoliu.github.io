@@ -39,7 +39,7 @@ Our students demonstrated exceptional dedication and innovative thinking through
 You can watch the presentation on Youtube.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="100%" height="360" src="https://www.youtube.com/embed/TMvynvirJMk" title="Our Future with AI: Utopian or Dystopian?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="100%" height="360" src="https://www.youtube.com/embed/6IrR7BbqSv4" title="Our Future with AI: Utopian or Dystopian?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 
