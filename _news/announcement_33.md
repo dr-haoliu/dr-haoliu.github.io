@@ -33,7 +33,7 @@ Our students demonstrated exceptional dedication and innovative thinking through
     </div>
 </div>
 <div class="caption">
-    Next-Gen Tech Thinkers won the 1st Prize in the Graduate Track at the nationwide RAISE-2024 competition
+    Next-Gen Tech Thinkers won the 1st Prize in the Graduate Track at the nationwide RAISE-2025 competition
 </div>
 
 You can watch the presentation on Youtube.
