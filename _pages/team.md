@@ -17,7 +17,7 @@ nav_order: 2
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
-                     <a href="https://www.linkedin.com/in/Rachel2025/" target="_blank" rel="noopener noreferrer">
+                     <a href="https://www.linkedin.com/in/ahnasia-goulbourne-302920190" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Rachel Rubio, BS</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Undergraduate student of BS in Data Science</h6>
                     <p class="card-text">
