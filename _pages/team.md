@@ -13,6 +13,32 @@ nav_order: 2
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
+                <img src="../assets/img/profile/SangeunLee.png.jpg" class="card-img img-fluid" alt="Sangeun Lee, MS, 26">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                     <a href="https://www.linkedin.com/in/ahnasia-goulbourne-302920190" target="_blank" rel="noopener noreferrer">
+                    <h5 class="card-title"> Sangeun Lee, MS</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
+                    <p class="card-text">
+                        Sangeun Lee is a graduate student in Data Science at Montclair State University with a background in Psychology. Her research focuses on the application of machine learning and deep learning techniques to medical imaging, particularly in the analysis of brain MRI for Alzheimer’s disease classification. 
+                        She works on developing neural network models for image-based diagnostics, with an emphasis on multimodal integration and sequence modeling.
+                    </p>
+                    </a>
+                        <a href="mailto:lees37@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+                        <a href="https://www.linkedin.com/in/sangeun-lee-480a35361/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
+                        </small>
+                    </p>
+                </div>
+            </div>
+        </div>
+</div>
+
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
                 <img src="../assets/img/profile/AhnasiaGoulbourne.jpg" class="card-img img-fluid" alt="Ahnasia Goulbourne, BS, 25">
             </div>
             <div class="team col-sm-8 col-md-9">
@@ -36,6 +62,8 @@ nav_order: 2
         </div>
 </div>
 
+
+
 <h3 class="mt-4">Alumni</h3>
 
 <div class="card hoverable">
@@ -47,7 +75,7 @@ nav_order: 2
                 <div class="card-body">
                      <a href="https://linkedin.com/in/bhowmikpritom" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Pritom Bhowmik, MS, 25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">MS in Data Science</h6>
                     <p class="card-text">
                         Pritom Bhowmik is a recent graduate and AI & Data Science Researcher with 3+ years of experience applying advanced analytics and machine learning to logistics and product intelligence. 
                         He focuses on harnessing AI to optimize supply chain workflows and guide strategic product decisions through behavioral data. His research includes Agentic RAG systems, Graph RAG architecture, and AI-driven experimentation, blending cutting-edge methods with practical applications.
@@ -77,7 +105,7 @@ nav_order: 2
                 <div class="card-body">
                      <a href="https://linkedin.com/in/wilson-andres-campoverde" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Andres Campoverde, MS, 25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Computer Science</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">MS in Computer Science</h6>
                     <p class="card-text">
                         Andres Campoverde is currently enrolled in the Master of Computer Science program at Montclair State University. 
                         He is Highly motivated MSc. Computer Science student at Montclair State University with 4+ years of software engineering experience. 
@@ -108,7 +136,7 @@ nav_order: 2
                 <div class="card-body">
                      <a href="https://www.linkedin.com/in/ShibbirAhmedArif/" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Shibbir Ahmed Arif, MS, 25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">MS in Data Science</h6>
                     <p class="card-text">
                         Shibbir Ahmed Arif is currently enrolled in the Master of Data Science program at Montclair State University. 
                         Besides, he is working as a graduate teaching assistant at the School of Computing. 
