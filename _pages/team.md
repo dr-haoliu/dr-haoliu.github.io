@@ -66,6 +66,8 @@ nav_order: 2
         </div>
 </div>
 
+<div class="mt-3"></div>
+
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
@@ -95,6 +97,7 @@ nav_order: 2
         </div>
 </div>
 
+<div class="mt-3"></div>
 
 <div class="card hoverable">
         <div class="row no-gutters">
@@ -127,6 +130,8 @@ nav_order: 2
         </div>
 </div>
 
+<div class="mt-3"></div>
+
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
@@ -155,6 +160,8 @@ nav_order: 2
             </div>
         </div>
 </div>
+
+<div class="mt-3"></div>
 
 <div class="card hoverable">
         <div class="row no-gutters">
@@ -185,6 +192,8 @@ nav_order: 2
             </div>
         </div>
 </div>
+
+<div class="mt-3"></div>
 
 <div class="card hoverable">
         <div class="row no-gutters">
