@@ -13,7 +13,7 @@ nav_order: 2
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="../assets/img/profile/SangeunLee.png.jpg" class="card-img img-fluid" alt="Sangeun Lee, MS, 26">
+                <img src="../assets/img/profile/SangeunLee.png" class="card-img img-fluid" alt="Sangeun Lee, MS, 26">
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
