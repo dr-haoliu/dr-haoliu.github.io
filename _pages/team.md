@@ -55,7 +55,7 @@ nav_order: 2
                     </a>
                         <a href="mailto:bhowmikp1@montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
                         <a href="tel:+1%20862%20399%209031" class="card-link"><i class="fas fa-phone"></i></a>
-                        <a href="https://pritom02bh.github.io/" class="card-link"><i class="fas fa-github"></i></a>
+                        <a href="https://pritom02bh.github.io/" class="card-link"><i class="fab fa-github"></i></a>
                         <a href="https://linkedin.com/in/bhowmikpritom" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
