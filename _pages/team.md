@@ -46,7 +46,7 @@ nav_order: 2
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
                      <a href="https://www.linkedin.com/in/ahnasia-goulbourne-302920190" target="_blank" rel="noopener noreferrer">
-                    <h5 class="card-title"> Rachel Rubio, BS</h5>
+                    <h5 class="card-title"> Ahnasia Goulbourne, BS</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Undergraduate student of BS in Data Science</h6>
                     <p class="card-text">
                         Ahnasia Goulbourne is an undergraduate student pursuing a major in Data Science with a minor in Mathematics. Her current research focuses on the implementation of artificial intelligence and retrieval-augmented generation (RAG) agents to interface with large language models (LLMs) for the evaluation of heart disease risk factors, treatments, and follow-up plans. 
