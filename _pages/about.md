@@ -7,7 +7,7 @@ subtitle: <b>Assistant Professor</b><br><b>School of Computing</b><br><b>Montcla
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # false crops the image to make it circular
   address: >
     <p>liuha at montclair dot edu</p>
     <p>CCIS 227E</p>
