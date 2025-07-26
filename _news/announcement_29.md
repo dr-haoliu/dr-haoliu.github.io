@@ -13,8 +13,12 @@ has been accepted as a full paper for MedInfo 2025!
 
 Authors:
 
-- Blessing Austin-Gabriel (Montclair State University)
-- Aparna Varde (Montclair State University)
-- Hao Liu (Montclair State University)
+- Zhou, Yiliang (Weill Cornell Medicine)
+- Newbury, Abigail M. (Columbia University)
+- Zhang, Gongbo (Columbia University)
+- Idnay, Betina Ross (Columbia University)
+- Liu, Hao (Montclair State University)
+- Weng, Chunhua (Columbia University)
+- Peng, Yifan (Weill Cornell Medicine)
 
 ----------------------------------
