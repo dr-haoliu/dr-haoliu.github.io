@@ -10,7 +10,7 @@ MSU Graduate Students Won the First and Second Places in the Poster Competition 
 
 ---------------------
 I'm proud to share that my students Shibbir Ahmed Arif and Ernest Chianumba won the first and second places in the Poster Competition at the Prestigious IEEE 2025 International Workshop on Intelligent Systems and Interdisciplinary Applications (ISIA), Montclair, NJ.
-Our two posters, titled "A Clinically Grounded AI Chatbot For Heart Failure Decision Support Using RAG And Real-World Clinical Data" and "Advancing Drug-Drug Interaction Prediction Using Multi-Modal Feature Integration with GNNs" were ranked first and second in the poster competition, respectively.
+Our two posters, titled "A Clinically Grounded AI Chatbot For Heart Failure Decision Support Using RAG And Real-World Clinical Data" and "Advancing Drug-Drug Interaction Prediction Using Multi-Modal Feature Integration with GNNs" were ranked first and second places in the poster competition, respectively.
 
 ----------------------------------
 
