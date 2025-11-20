@@ -7,6 +7,7 @@ inline: true
 ---
 
 Our poster "From Text to Codes: Optimizing ICD-10 Coding Workflow with GPT-driven Retrieval-Augmented Generation" was presented at AMIA 2025!
+
 ---------------------
 
 Authors:
