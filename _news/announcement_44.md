@@ -6,7 +6,7 @@ date: 2026-02-05 18:31:49-0400
 inline: true
 ---
 
-our paper "A Multi-Model LLM Consensus Framework to Identify EHR-Predictable Eligibility Criteria in NSCLC Immunotherapy Trials" has been accepted for an oral presentation at the AMIA 2026 Amplify Informatics Conference.
+Our paper "A Multi-Model LLM Consensus Framework to Identify EHR-Predictable Eligibility Criteria in NSCLC Immunotherapy Trials" has been accepted for an oral presentation at the AMIA 2026 Amplify Informatics Conference.
 
 ---------------------
 
