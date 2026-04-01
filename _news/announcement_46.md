@@ -5,7 +5,7 @@ date: 2026-03-04 18:31:49-0400
 inline: true
 ---
 
-I serve as a Promgram Chair for 2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (IEEE ISAIA 2026).
+I serve as a Program Chair for 2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (IEEE ISAIA 2026).
 
 ---
 
