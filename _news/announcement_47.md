@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-    MSU Student Presents Research at Student Research Symposium 2026
+    MSU Students Present Research at Student Research Symposium 2026
 date: 2026-04-24 15:13:40-0400
 inline: true
 ---

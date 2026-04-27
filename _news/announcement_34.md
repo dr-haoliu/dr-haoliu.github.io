@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-    MSU Student Presents Research at Prestigious IEEE CHASE 2025 Conference
+    MSU Students Present Research at Prestigious IEEE CHASE 2025 Conference
 date: 2025-06-24 15:13:40-0400
 inline: true
 ---
