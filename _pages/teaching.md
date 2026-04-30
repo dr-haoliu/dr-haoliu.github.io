@@ -15,6 +15,28 @@ nav_order: 5
 
 <div class="row">
   <div class="col-sm-10">
+    <h5 class="font-weight-bold">Deep Learning</h5>
+  </div>
+  <div class="col-sm-2 text-left text-sm-right">
+    <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="#" target="_blank">
+        CSIT 599 
+    </span>
+  </div>
+</div>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2026; Fall 2025: Lecturer </h6>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  <li class="list-group-item">○ Graduate level course for Deep Learning. </li>
+  <li class="list-group-item">○ Advanced concepts and latest techniques in deep learning. Topics covered including basics of neural network architectures, optimization methods, and advanced applications in computer vision and natural language processing. </li>
+</ul>
+
+</div>
+
+
+
+<div class="card mt-3 p-3">
+
+<div class="row">
+  <div class="col-sm-10">
     <h5 class="font-weight-bold">Database Systems</h5>
   </div>
   <div class="col-sm-2 text-left text-sm-right">
@@ -44,7 +66,7 @@ nav_order: 5
     </span>
   </div>
 </div>
-<h6 class="font-italic mt-2 mt-sm-0">Spring 2025: Lecturer </h6>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2026; Spring 2025: Lecturer </h6>
 <ul class="card-text font-weight-light list-group list-group-flush">
   <li class="list-group-item">○ Undergraduate level course to Data Visualization. </li>
   <li class="list-group-item">○ Understand the concepts and various phases of Data Science including data manipulating, processing, and visualization. Apply data science skills and design visualizations to solve problems with real-world data sets.</li>
@@ -64,7 +86,7 @@ nav_order: 5
     </span>
   </div>
 </div>
-<h6 class="font-italic mt-2 mt-sm-0">Spring 2025; Spring, Fall 2024: Lecturer </h6>
+<h6 class="font-italic mt-2 mt-sm-0">Spring 2026; Fall, Spring 2025; Spring, Fall 2024: Lecturer </h6>
 <ul class="card-text font-weight-light list-group list-group-flush">
   <li class="list-group-item">○ Graduate level course to Data Analysis and Visualization. </li>
   <li class="list-group-item">○ Understand the concepts and various phases of Data Science including data manipulating, processing, and visualization. Apply data science skills and design visualizations to solve problems with real-world data sets.</li>
