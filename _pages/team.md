@@ -10,6 +10,12 @@ nav_order: 2
 <h3 class="mt-4">Current Students</h3>
 
 
+
+
+
+
+<h3 class="mt-4">Alumni</h3>
+
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
@@ -64,9 +70,7 @@ nav_order: 2
         </div>
 </div>
 
-
-
-<h3 class="mt-4">Alumni</h3>
+<div class="mt-3"></div>
 
 <div class="card hoverable">
         <div class="row no-gutters">
