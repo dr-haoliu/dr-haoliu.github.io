@@ -24,7 +24,7 @@ nav_order: 2
                     <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
                     <p class="card-text">
                         Asongwe Mutah is a graduate student in computer science with a professional background in healthcare, having worked as a medical technologist and QA analyst. 
-                        His experience spans clinical systems, data quality, and patient-centered workflows, which has informed my transition into machine learning, deep learning, and computer vision. 
+                        His experience spans clinical systems, data quality, and patient-centered workflows, which has informed his transition into machine learning, deep learning, and computer vision. 
                         His research focuses on developing predictive models for adverse transfusion reactions and building intelligent agents that support diagnosis by integrating multimodal data such as laboratory results, vital signs, and physician notes, with the goal of improving clinical decision-making and patient outcomes.                        
                     </p>
                     </a>
