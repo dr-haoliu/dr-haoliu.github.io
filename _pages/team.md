@@ -9,12 +9,37 @@ nav_order: 2
 
 <h3 class="mt-4">Current Students</h3>
 
-
-
-
-
-
 <h3 class="mt-4">Alumni</h3>
+
+
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="../assets/img/profile/asongwe.jpg" class="card-img img-fluid" alt="Asongwe Mutah, MS, 26">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                     <a href="https://www.linkedin.com/in/asongwe-mutah-113060102" target="_blank" rel="noopener noreferrer">
+                    <h5 class="card-title"> Asongwe Mutah, MS</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
+                    <p class="card-text">
+                        Asongwe Mutah is a graduate student in computer science with a professional background in healthcare, having worked as a medical technologist and QA analyst. 
+                        His experience spans clinical systems, data quality, and patient-centered workflows, which has informed my transition into machine learning, deep learning, and computer vision. 
+                        His research focuses on developing predictive models for adverse transfusion reactions and building intelligent agents that support diagnosis by integrating multimodal data such as laboratory results, vital signs, and physician notes, with the goal of improving clinical decision-making and patient outcomes.                        
+                    </p>
+                    </a>
+                        <a href="mailto:mutaha1@mail.montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+                        <a href="https://www.linkedin.com/in/asongwe-mutah-113060102/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
+                        </small>
+                    </p>
+                </div>
+            </div>
+        </div>
+</div>
+
+<div class="mt-3"></div>
 
 <div class="card hoverable">
         <div class="row no-gutters">
@@ -23,7 +48,7 @@ nav_order: 2
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
-                     <a href="https://www.linkedin.com/in/ahnasia-goulbourne-302920190" target="_blank" rel="noopener noreferrer">
+                     <a href="https://www.linkedin.com/in/sangeun-lee-480a35361" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Sangeun Lee, MS</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
                     <p class="card-text">
