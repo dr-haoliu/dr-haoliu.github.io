@@ -7,8 +7,8 @@ inline: true
 ---
 
 Our paper, "Enhancing Electronic Health Records Annotation with a Cluster-Focused Combination Algorithm and Interface Terminologies," has finally been officially published!
-Access to the publication here:
-https://link.springer.com/chapter/10.1007/978-3-032-34459-5_17
+Access to the publication [Click Here](https://link.springer.com/chapter/10.1007/978-3-032-34459-5_17)
+
 
 ---------------------
 
