@@ -20,10 +20,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My work seeks to leverage innovations in artificial intelligence into knowledge discovery, representation, and computation from biomedical/clinical literature and Electronic Health Records(EHRs). 
-My research interests include clinical informatics, natural language processing, machine learning, data mining, knowledge representation, and ontology engineering.
-I am passionate about AI in Healthcare research.
+My research is in artificial intelligence, spanning machine learning, deep learning, data mining, natural language processing, and representation learning.
+I develop methods that learn meaningful representations from complex, heterogeneous data, including unstructured text, images, and multimodal signals, and connect them with structured knowledge representations such as knowledge graphs and ontologies to support discovery, prediction, and decision-making.
+My recent work centers on large language models (LLMs), including fine-tuning, prompting, and retrieval-augmented generation (RAG), as well as graph neural networks and knowledge-guided machine learning.
+
+My primary application domain is healthcare, where I work with biomedical literature, clinical trials, and Electronic Health Records (EHRs).
+I have also applied these methods beyond healthcare, for example to geoinformatics-guided power plant classification and social media analysis.
+I welcome collaborations in AI, machine learning, and data science, both in healthcare and in other application areas.
 
 I was a Postdoc Research Scientist in the Department of Biomedical Informatics at Columbia University.
-I received my Ph.D. degree in Computer Science from New Jersey Institute of Technology (NJIT), co-advised by <a href="https://people.njit.edu/faculty/perl"><b>Dr. Yehoshua Perl</b></a> and <a href="https://web.njit.edu/~geller/"><b>Dr. James Geller</b></a>. My PhD research focused on developing machine learning algorithms for biomedical ontology engineering, mainly focused on ontology enrichment and quality assurance.
+I received my Ph.D. degree in Computer Science from New Jersey Institute of Technology (NJIT), co-advised by <a href="https://people.njit.edu/faculty/perl"><b>Dr. Yehoshua Perl</b></a> and <a href="https://web.njit.edu/~geller/"><b>Dr. James Geller</b></a>. My PhD research developed machine learning and deep learning methods, including convolutional neural networks and BERT-based transfer learning, for ontology and knowledge graph engineering, with a focus on enrichment and quality assurance of large-scale biomedical ontologies such as SNOMED CT.
 I graduated with a M.S. degree in Electrical Engineering from Columbia University, NY. I have a B.S. degree in Electrical & Computer Engineering from New York Institute of Technology, NY.
