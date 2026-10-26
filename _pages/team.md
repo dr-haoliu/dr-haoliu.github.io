@@ -11,6 +11,36 @@ nav_order: 2
 
 <h3 class="mt-4">Alumni</h3>
 
+<div class="card hoverable">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="../assets/img/profile/Divya.jpg" class="card-img img-fluid" alt="Divya Reddy Venkugari, MS, 26">
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                     <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+                    <h5 class="card-title"> Divya Reddy Venkugari, MS</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
+                    <p class="card-text">
+                        Divya Reddy Venkugari is a graduate student in Data Science at Montclair State University with a background in Electronics and Communication Engineering. 
+                        Her research interests lie at the intersection of artificial intelligence, medical imaging, and healthcare informatics. 
+                        Her work has included multimodal chest X-ray diagnosis using deep learning, explainable AI with Grad-CAM, and the evaluation of open-source vision-language models for chest X-ray classification and localization. 
+                        Her current research focuses on trustworthy medical AI, including hallucination reduction, prompt-based reliability, evidence-grounded reasoning, and spatial grounding of vision-language models.                        
+                    </p>
+                    </a>
+                        <a href="mailto:venkugarid1@mail.montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+                        <a href="https://www.linkedin.com/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
+                        </small>
+                    </p>
+                </div>
+            </div>
+        </div>
+</div>
+
+<div class="mt-3"></div>
+
 
 <div class="card hoverable">
         <div class="row no-gutters">
