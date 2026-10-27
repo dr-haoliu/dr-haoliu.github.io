@@ -18,7 +18,7 @@ nav_order: 2
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
-                     <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+                     <a href="https://www.linkedin.com/in/divya-venkugari/" target="_blank" rel="noopener noreferrer">
                     <h5 class="card-title"> Divya Reddy Venkugari, MS</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Graduate student of MS in Data Science</h6>
                     <p class="card-text">
@@ -29,7 +29,7 @@ nav_order: 2
                     </p>
                     </a>
                         <a href="mailto:venkugarid1@mail.montclair.edu" class="card-link"><i class="fas fa-envelope"></i></a>
-                        <a href="https://www.linkedin.com/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                        <a href="https://www.linkedin.com/in/divya-venkugari/" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> Rm318, School of Engineering, Montclair State University, Montclair, NJ 07043
                         </small>
